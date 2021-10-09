@@ -1,19 +1,34 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": {"url": "data/diabetes_prevalence_comparison.json"},
-    "description": "Slope graph showing the change in yield for different barley sites. It shows the error in the year labels for the Morris site.",
-    "mark": "line",
-    "width": {"step": 50},
-    "encoding": {
-      "x": {
-        "field": "Year",
-        "type": "ordinal",
-        "scale": {"padding": 0.5}
-      },
-      "y": {
-        "field": "Diabetes prevalence (% of population ages 20 to 79)",
-        "type": "quantitative"
-      },
-      "color": {"field": "Entity", "type": "nominal"}
-    }
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 200,
+  "height": 300,
+  "data": {"url": "https://raw.githubusercontent.com/julialau88/DataVisualisation2/main/data/diabetes-prevalence.csv"},
+  "description": "Slope graph showing the change in yield for different barley sites. It shows the error in the year labels for the Morris site.",
+  "mark": "line",
+  "transform": [
+    {"filter": "datum['Entity'] == 'Malaysia' || datum['Entity'] == 'Mexico' || datum['Entity'] == 'Brazil' || datum['Entity'] == 'India'||  datum['Entity'] == 'Saudi Arabia'||  datum['Entity'] == 'South Africa'"}
+  ],
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "ordinal",
+      "scale": {"padding": 0.5}
+    },
+    "y": {
+      "field": "Prevalence",
+      "type": "quantitative"
+    },
+    "tooltip": [
+      {"field": "Entity", "type": "nominal", "title": "Country"},
+      {"field": "Prevalence", "type": "quantitative"}
+    ],
+    "color": {"field": "Entity", "type": "nominal", "legend":{"values":["Malaysia",  "Mexico", "Brazil", "India",  "Saudi Arabia", "South Africa"]} },
+    "opacity": {
+      "condition": {
+      "test": "datum['Entity'] == 'Malaysia' || datum['Entity'] == 'Mexico' || datum['Entity'] == 'Brazil' || datum['Entity'] == 'India'||  datum['Entity'] == 'Saudi Arabia'|| datum['Entity'] == 'South Africa'",
+      "value": 1
+     },
+     "value": 0
+     }
   }
+}
