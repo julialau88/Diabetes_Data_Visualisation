@@ -1,0 +1,46 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 1200,
+    "height": 500,
+    "title": { "text": "New Daily COVID-19 Cases in Malaysia per 10,000 population"},
+    "projection": {"type": "equalEarth"},
+    "layer": [{
+    "data": {
+        "url": "data/malaysia_singapore_brunei_administrative_malaysia_state_province_boundary.json",
+        "format":{"type": "topojson", "feature": "malaysia_singapore_brunei_administrative_malaysia_state_province_boundary"}
+    },
+    "transform": [{
+        "lookup": "properties.name",
+        "from":{
+            "data":{
+                "url": "https://raw.githubusercontent.com/CITF-Malaysia/citf-public/main/vaccination/vax_state.csv"
+            },
+            "key": "state",
+            "fields": ["cumul_full", "cumul_partial", "cumul_full_child", "cumul_partial_child"]
+        }
+    }, 
+    {
+        "lookup": "properties.name",
+        "from":{
+            "data":{
+                "url": "https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/static/population.csv"
+            },
+            "key": "state",
+            "fields": ["pop_18"]
+        }
+    },
+    {"calculate": "(datum.cumul_full-datum.cumul_full_child)/datum.pop * 100", "as": "value"}],
+    "mark": "arc",
+
+    "encoding": {
+        "theta": {"field": "value", "type": "quantitative"},
+        "color":{
+            "type": "nominal"
+        },
+        "tooltip":[
+            {"field": "properties.name", "type": "nominal", "title":"State"},
+            {"field": "Cases per 10,000 population", "type": "quantitative"}
+        ]
+       
+    }}]
+}

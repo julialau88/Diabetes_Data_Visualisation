@@ -1,0 +1,49 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 500,
+    "title": "World GDP per capita 2020",
+    "projection": {"type": "equirectangular"},
+    "params": [{
+        "name": "year_selection",
+        "value": 2018,
+        "bind": {"input": "range", "min": 1965, "max": 2018, "step": 1}
+        }
+    ],
+    "data": {
+        "url": "https://raw.githubusercontent.com/1099238610/global-map-vis/main/data/modern-renewable-energy-consumption.csv"
+    },
+    "transform": [{
+          "lookup": "Entity",
+          "from": {
+            "data": {
+                "url": "https://raw.githubusercontent.com/1099238610/global-map-vis/main/json/global.topo.json",
+                "format": {"type": "topojson", "feature": "custom.geo"}
+            },
+            "key": "properties.geounit"
+          },
+          "as": "geo"
+        },
+        {"filter":"datum.Year == year_selection"}
+      ],
+    "mark": {"type": "geoshape"},
+    "encoding": {
+        "shape": {
+            "field": "geo",
+            "type": "geojson"
+        },
+        "color": {
+          "field": "Hydropower",
+          "type": "quantitative",
+          "scale": {
+            "type":"threshold",
+            "domain":[0,1,5],
+            "range":["#FADBD8", "#EC7063", "#CB4335", "#943126"]
+          }
+        },
+        "tooltip": [
+          {"field": "properties.geounit", "type": "nominal", "title": "Country"},
+          {"field": "Hydropower", "type": "quantitative"}
+        ]
+    }
+}

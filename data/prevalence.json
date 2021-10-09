@@ -1,0 +1,3068 @@
+[
+  {
+    "Entity": "Afghanistan",
+    "Code": "AFG",
+    "Year": 2010,
+    "Prevalence": 8.6
+  },
+  {
+    "Entity": "Afghanistan",
+    "Code": "AFG",
+    "Year": 2019,
+    "Prevalence": 9.2
+  },
+  {
+    "Entity": "Africa Eastern and Southern",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 3.351852242
+  },
+  {
+    "Entity": "Africa Eastern and Southern",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 6.648452482
+  },
+  {
+    "Entity": "Africa Western and Central",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 4.472570947
+  },
+  {
+    "Entity": "Africa Western and Central",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 3.395120021
+  },
+  {
+    "Entity": "Albania",
+    "Code": "ALB",
+    "Year": 2010,
+    "Prevalence": 4.5
+  },
+  {
+    "Entity": "Albania",
+    "Code": "ALB",
+    "Year": 2019,
+    "Prevalence": 9
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2010,
+    "Prevalence": 8.5
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2019,
+    "Prevalence": 6.7
+  },
+  {
+    "Entity": "Andorra",
+    "Code": "AND",
+    "Year": 2010,
+    "Prevalence": 6.6
+  },
+  {
+    "Entity": "Andorra",
+    "Code": "AND",
+    "Year": 2019,
+    "Prevalence": 7.7
+  },
+  {
+    "Entity": "Angola",
+    "Code": "AGO",
+    "Year": 2010,
+    "Prevalence": 3.5
+  },
+  {
+    "Entity": "Angola",
+    "Code": "AGO",
+    "Year": 2019,
+    "Prevalence": 4.5
+  },
+  {
+    "Entity": "Antigua and Barbuda",
+    "Code": "ATG",
+    "Year": 2010,
+    "Prevalence": 7.1
+  },
+  {
+    "Entity": "Antigua and Barbuda",
+    "Code": "ATG",
+    "Year": 2019,
+    "Prevalence": 13.1
+  },
+  {
+    "Entity": "Arab World",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 9.804548729
+  },
+  {
+    "Entity": "Arab World",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 12.53600133
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2010,
+    "Prevalence": 5.7
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2019,
+    "Prevalence": 5.9
+  },
+  {
+    "Entity": "Armenia",
+    "Code": "ARM",
+    "Year": 2010,
+    "Prevalence": 7.8
+  },
+  {
+    "Entity": "Armenia",
+    "Code": "ARM",
+    "Year": 2019,
+    "Prevalence": 6.1
+  },
+  {
+    "Entity": "Aruba",
+    "Code": "ABW",
+    "Year": 2010,
+    "Prevalence": 10.2
+  },
+  {
+    "Entity": "Aruba",
+    "Code": "ABW",
+    "Year": 2019,
+    "Prevalence": 11.6
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2010,
+    "Prevalence": 5.7
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2019,
+    "Prevalence": 5.6
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2010,
+    "Prevalence": 8.9
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2019,
+    "Prevalence": 6.6
+  },
+  {
+    "Entity": "Azerbaijan",
+    "Code": "AZE",
+    "Year": 2010,
+    "Prevalence": 7.5
+  },
+  {
+    "Entity": "Azerbaijan",
+    "Code": "AZE",
+    "Year": 2019,
+    "Prevalence": 6.1
+  },
+  {
+    "Entity": "Bahamas",
+    "Code": "BHS",
+    "Year": 2010,
+    "Prevalence": 10.4
+  },
+  {
+    "Entity": "Bahamas",
+    "Code": "BHS",
+    "Year": 2019,
+    "Prevalence": 8.8
+  },
+  {
+    "Entity": "Bahrain",
+    "Code": "BHR",
+    "Year": 2010,
+    "Prevalence": 15.4
+  },
+  {
+    "Entity": "Bahrain",
+    "Code": "BHR",
+    "Year": 2019,
+    "Prevalence": 15.6
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Year": 2010,
+    "Prevalence": 6.6
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Year": 2019,
+    "Prevalence": 9.2
+  },
+  {
+    "Entity": "Barbados",
+    "Code": "BRB",
+    "Year": 2010,
+    "Prevalence": 8
+  },
+  {
+    "Entity": "Barbados",
+    "Code": "BRB",
+    "Year": 2019,
+    "Prevalence": 13.4
+  },
+  {
+    "Entity": "Belarus",
+    "Code": "BLR",
+    "Year": 2010,
+    "Prevalence": 7.6
+  },
+  {
+    "Entity": "Belarus",
+    "Code": "BLR",
+    "Year": 2019,
+    "Prevalence": 5
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2010,
+    "Prevalence": 5.3
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2019,
+    "Prevalence": 4.6
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Year": 2010,
+    "Prevalence": 9.8
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Year": 2019,
+    "Prevalence": 17.1
+  },
+  {
+    "Entity": "Benin",
+    "Code": "BEN",
+    "Year": 2010,
+    "Prevalence": 4.6
+  },
+  {
+    "Entity": "Benin",
+    "Code": "BEN",
+    "Year": 2019,
+    "Prevalence": 1
+  },
+  {
+    "Entity": "Bermuda",
+    "Code": "BMU",
+    "Year": 2010,
+    "Prevalence": 10.2
+  },
+  {
+    "Entity": "Bermuda",
+    "Code": "BMU",
+    "Year": 2019,
+    "Prevalence": 6.7
+  },
+  {
+    "Entity": "Bhutan",
+    "Code": "BTN",
+    "Year": 2010,
+    "Prevalence": 3.6
+  },
+  {
+    "Entity": "Bhutan",
+    "Code": "BTN",
+    "Year": 2019,
+    "Prevalence": 10.3
+  },
+  {
+    "Entity": "Bolivia",
+    "Code": "BOL",
+    "Year": 2010,
+    "Prevalence": 6
+  },
+  {
+    "Entity": "Bolivia",
+    "Code": "BOL",
+    "Year": 2019,
+    "Prevalence": 6.8
+  },
+  {
+    "Entity": "Bosnia and Herzegovina",
+    "Code": "BIH",
+    "Year": 2010,
+    "Prevalence": 7.1
+  },
+  {
+    "Entity": "Bosnia and Herzegovina",
+    "Code": "BIH",
+    "Year": 2019,
+    "Prevalence": 9
+  },
+  {
+    "Entity": "Botswana",
+    "Code": "BWA",
+    "Year": 2010,
+    "Prevalence": 5.4
+  },
+  {
+    "Entity": "Botswana",
+    "Code": "BWA",
+    "Year": 2019,
+    "Prevalence": 5.8
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2010,
+    "Prevalence": 6.4
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2019,
+    "Prevalence": 10.4
+  },
+  {
+    "Entity": "British Virgin Islands",
+    "Code": "VGB",
+    "Year": 2010,
+    "Prevalence": 10.2
+  },
+  {
+    "Entity": "British Virgin Islands",
+    "Code": "VGB",
+    "Year": 2019,
+    "Prevalence": 14.2
+  },
+  {
+    "Entity": "Brunei",
+    "Code": "BRN",
+    "Year": 2010,
+    "Prevalence": 12.6
+  },
+  {
+    "Entity": "Brunei",
+    "Code": "BRN",
+    "Year": 2019,
+    "Prevalence": 13.3
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2010,
+    "Prevalence": 6.5
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2019,
+    "Prevalence": 6
+  },
+  {
+    "Entity": "Burkina Faso",
+    "Code": "BFA",
+    "Year": 2010,
+    "Prevalence": 3.8
+  },
+  {
+    "Entity": "Burkina Faso",
+    "Code": "BFA",
+    "Year": 2019,
+    "Prevalence": 7.3
+  },
+  {
+    "Entity": "Burundi",
+    "Code": "BDI",
+    "Year": 2010,
+    "Prevalence": 1.8
+  },
+  {
+    "Entity": "Burundi",
+    "Code": "BDI",
+    "Year": 2019,
+    "Prevalence": 5.1
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Year": 2010,
+    "Prevalence": 5.2
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Year": 2019,
+    "Prevalence": 6.4
+  },
+  {
+    "Entity": "Cameroon",
+    "Code": "CMR",
+    "Year": 2010,
+    "Prevalence": 3.9
+  },
+  {
+    "Entity": "Cameroon",
+    "Code": "CMR",
+    "Year": 2019,
+    "Prevalence": 6
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2010,
+    "Prevalence": 9.2
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2019,
+    "Prevalence": 7.6
+  },
+  {
+    "Entity": "Cape Verde",
+    "Code": "CPV",
+    "Year": 2010,
+    "Prevalence": 5.3
+  },
+  {
+    "Entity": "Cape Verde",
+    "Code": "CPV",
+    "Year": 2019,
+    "Prevalence": 2.4
+  },
+  {
+    "Entity": "Caribbean Small States",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 10.41807244
+  },
+  {
+    "Entity": "Caribbean Small States",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 11.62934214
+  },
+  {
+    "Entity": "Cayman Islands",
+    "Code": "CYM",
+    "Year": 2010,
+    "Prevalence": 10.2
+  },
+  {
+    "Entity": "Cayman Islands",
+    "Code": "CYM",
+    "Year": 2019,
+    "Prevalence": 6.8
+  },
+  {
+    "Entity": "Central African Republic",
+    "Code": "CAF",
+    "Year": 2010,
+    "Prevalence": 4.5
+  },
+  {
+    "Entity": "Central African Republic",
+    "Code": "CAF",
+    "Year": 2019,
+    "Prevalence": 6
+  },
+  {
+    "Entity": "Central Europe and the Baltics",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 7.06113659
+  },
+  {
+    "Entity": "Central Europe and the Baltics",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 6.295943662
+  },
+  {
+    "Entity": "Chad",
+    "Code": "TCD",
+    "Year": 2010,
+    "Prevalence": 3.7
+  },
+  {
+    "Entity": "Chad",
+    "Code": "TCD",
+    "Year": 2019,
+    "Prevalence": 6
+  },
+  {
+    "Entity": "Channel Islands",
+    "Code": "OWID_CIS",
+    "Year": 2010,
+    "Prevalence": 3
+  },
+  {
+    "Entity": "Channel Islands",
+    "Code": "OWID_CIS",
+    "Year": 2019,
+    "Prevalence": 3.9
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2010,
+    "Prevalence": 5.7
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2019,
+    "Prevalence": 8.6
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2010,
+    "Prevalence": 4.2
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2019,
+    "Prevalence": 9.2
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2010,
+    "Prevalence": 5.2
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2019,
+    "Prevalence": 7.4
+  },
+  {
+    "Entity": "Comoros",
+    "Code": "COM",
+    "Year": 2010,
+    "Prevalence": 3.4
+  },
+  {
+    "Entity": "Comoros",
+    "Code": "COM",
+    "Year": 2019,
+    "Prevalence": 12.3
+  },
+  {
+    "Entity": "Congo",
+    "Code": "COG",
+    "Year": 2010,
+    "Prevalence": 5.1
+  },
+  {
+    "Entity": "Congo",
+    "Code": "COG",
+    "Year": 2019,
+    "Prevalence": 6
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2010,
+    "Prevalence": 9.3
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2019,
+    "Prevalence": 9.1
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Year": 2010,
+    "Prevalence": 4.7
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Year": 2019,
+    "Prevalence": 2.4
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2010,
+    "Prevalence": 6.9
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2019,
+    "Prevalence": 5.4
+  },
+  {
+    "Entity": "Cuba",
+    "Code": "CUB",
+    "Year": 2010,
+    "Prevalence": 9.5
+  },
+  {
+    "Entity": "Cuba",
+    "Code": "CUB",
+    "Year": 2019,
+    "Prevalence": 9.6
+  },
+  {
+    "Entity": "Curacao",
+    "Code": "CUW",
+    "Year": 2019,
+    "Prevalence": 11.6
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 2010,
+    "Prevalence": 9.1
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 2019,
+    "Prevalence": 9
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2010,
+    "Prevalence": 6.4
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2019,
+    "Prevalence": 7
+  },
+  {
+    "Entity": "Democratic Republic of Congo",
+    "Code": "COD",
+    "Year": 2010,
+    "Prevalence": 3.2
+  },
+  {
+    "Entity": "Democratic Republic of Congo",
+    "Code": "COD",
+    "Year": 2019,
+    "Prevalence": 6
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2010,
+    "Prevalence": 5.6
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2019,
+    "Prevalence": 8.3
+  },
+  {
+    "Entity": "Djibouti",
+    "Code": "DJI",
+    "Year": 2010,
+    "Prevalence": 5.3
+  },
+  {
+    "Entity": "Djibouti",
+    "Code": "DJI",
+    "Year": 2019,
+    "Prevalence": 5.1
+  },
+  {
+    "Entity": "Dominica",
+    "Code": "DMA",
+    "Year": 2010,
+    "Prevalence": 11.5
+  },
+  {
+    "Entity": "Dominica",
+    "Code": "DMA",
+    "Year": 2019,
+    "Prevalence": 11.6
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 2010,
+    "Prevalence": 11.2
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 2019,
+    "Prevalence": 8.6
+  },
+  {
+    "Entity": "Early-demographic dividend",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 7.378814011
+  },
+  {
+    "Entity": "Early-demographic dividend",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 10.09091053
+  },
+  {
+    "Entity": "East Asia & Pacific",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 4.756760965
+  },
+  {
+    "Entity": "East Asia & Pacific",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 8.202460904
+  },
+  {
+    "Entity": "East Asia & Pacific (IDA & IBRD)",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 4.564072519
+  },
+  {
+    "Entity": "East Asia & Pacific (IDA & IBRD)",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 8.514102225
+  },
+  {
+    "Entity": "East Asia & Pacific (excluding high income)",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 4.573145372
+  },
+  {
+    "Entity": "East Asia & Pacific (excluding high income)",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 8.488061856
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Year": 2010,
+    "Prevalence": 5.9
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Year": 2019,
+    "Prevalence": 5.5
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2010,
+    "Prevalence": 11.4
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2019,
+    "Prevalence": 17.2
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2010,
+    "Prevalence": 9
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2019,
+    "Prevalence": 8.8
+  },
+  {
+    "Entity": "Equatorial Guinea",
+    "Code": "GNQ",
+    "Year": 2010,
+    "Prevalence": 4.8
+  },
+  {
+    "Entity": "Equatorial Guinea",
+    "Code": "GNQ",
+    "Year": 2019,
+    "Prevalence": 6
+  },
+  {
+    "Entity": "Eritrea",
+    "Code": "ERI",
+    "Year": 2010,
+    "Prevalence": 2.5
+  },
+  {
+    "Entity": "Eritrea",
+    "Code": "ERI",
+    "Year": 2019,
+    "Prevalence": 5.1
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "Year": 2010,
+    "Prevalence": 7.6
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "Year": 2019,
+    "Prevalence": 4.2
+  },
+  {
+    "Entity": "Eswatini",
+    "Code": "SWZ",
+    "Year": 2010,
+    "Prevalence": 4.2
+  },
+  {
+    "Entity": "Eswatini",
+    "Code": "SWZ",
+    "Year": 2019,
+    "Prevalence": 4.5
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2010,
+    "Prevalence": 2.5
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2019,
+    "Prevalence": 4.3
+  },
+  {
+    "Entity": "Euro area",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 7.094378243
+  },
+  {
+    "Entity": "Euro area",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 6.761899919
+  },
+  {
+    "Entity": "Europe & Central Asia",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 6.881917468
+  },
+  {
+    "Entity": "Europe & Central Asia",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 6.687622963
+  },
+  {
+    "Entity": "Europe & Central Asia (IDA & IBRD)",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 7.272406255
+  },
+  {
+    "Entity": "Europe & Central Asia (IDA & IBRD)",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 7.099250722
+  },
+  {
+    "Entity": "Europe & Central Asia (excluding high income)",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 7.243488041
+  },
+  {
+    "Entity": "Europe & Central Asia (excluding high income)",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 7.215087542
+  },
+  {
+    "Entity": "European Union",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 7.02664689
+  },
+  {
+    "Entity": "European Union",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 6.67189385
+  },
+  {
+    "Entity": "Faeroe Islands",
+    "Code": "FRO",
+    "Year": 2019,
+    "Prevalence": 4.7
+  },
+  {
+    "Entity": "Fiji",
+    "Code": "FJI",
+    "Year": 2010,
+    "Prevalence": 9.4
+  },
+  {
+    "Entity": "Fiji",
+    "Code": "FJI",
+    "Year": 2019,
+    "Prevalence": 14.7
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2010,
+    "Prevalence": 5.7
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2019,
+    "Prevalence": 5.6
+  },
+  {
+    "Entity": "Fragile and conflict affected situations",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 4.758644821
+  },
+  {
+    "Entity": "Fragile and conflict affected situations",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 6.235320341
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2010,
+    "Prevalence": 6.7
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2019,
+    "Prevalence": 4.8
+  },
+  {
+    "Entity": "French Polynesia",
+    "Code": "PYF",
+    "Year": 2010,
+    "Prevalence": 13.8
+  },
+  {
+    "Entity": "French Polynesia",
+    "Code": "PYF",
+    "Year": 2019,
+    "Prevalence": 19.5
+  },
+  {
+    "Entity": "Gabon",
+    "Code": "GAB",
+    "Year": 2010,
+    "Prevalence": 5
+  },
+  {
+    "Entity": "Gabon",
+    "Code": "GAB",
+    "Year": 2019,
+    "Prevalence": 6
+  },
+  {
+    "Entity": "Gambia",
+    "Code": "GMB",
+    "Year": 2010,
+    "Prevalence": 4.3
+  },
+  {
+    "Entity": "Gambia",
+    "Code": "GMB",
+    "Year": 2019,
+    "Prevalence": 1.9
+  },
+  {
+    "Entity": "Georgia",
+    "Code": "GEO",
+    "Year": 2010,
+    "Prevalence": 7.5
+  },
+  {
+    "Entity": "Georgia",
+    "Code": "GEO",
+    "Year": 2019,
+    "Prevalence": 5.8
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2010,
+    "Prevalence": 8.9
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2019,
+    "Prevalence": 10.4
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Year": 2010,
+    "Prevalence": 4.3
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Year": 2019,
+    "Prevalence": 2.5
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2010,
+    "Prevalence": 6
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2019,
+    "Prevalence": 4.7
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Year": 2019,
+    "Prevalence": 2.1
+  },
+  {
+    "Entity": "Grenada",
+    "Code": "GRD",
+    "Year": 2010,
+    "Prevalence": 9.5
+  },
+  {
+    "Entity": "Grenada",
+    "Code": "GRD",
+    "Year": 2019,
+    "Prevalence": 10.7
+  },
+  {
+    "Entity": "Guam",
+    "Code": "GUM",
+    "Year": 2010,
+    "Prevalence": 6.7
+  },
+  {
+    "Entity": "Guam",
+    "Code": "GUM",
+    "Year": 2019,
+    "Prevalence": 18.7
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2010,
+    "Prevalence": 8.6
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2019,
+    "Prevalence": 10
+  },
+  {
+    "Entity": "Guinea",
+    "Code": "GIN",
+    "Year": 2010,
+    "Prevalence": 4.3
+  },
+  {
+    "Entity": "Guinea",
+    "Code": "GIN",
+    "Year": 2019,
+    "Prevalence": 2.4
+  },
+  {
+    "Entity": "Guinea-Bissau",
+    "Code": "GNB",
+    "Year": 2010,
+    "Prevalence": 3.9
+  },
+  {
+    "Entity": "Guinea-Bissau",
+    "Code": "GNB",
+    "Year": 2019,
+    "Prevalence": 2.4
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Year": 2010,
+    "Prevalence": 9.5
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Year": 2019,
+    "Prevalence": 11.6
+  },
+  {
+    "Entity": "Haiti",
+    "Code": "HTI",
+    "Year": 2010,
+    "Prevalence": 7.2
+  },
+  {
+    "Entity": "Haiti",
+    "Code": "HTI",
+    "Year": 2019,
+    "Prevalence": 6.7
+  },
+  {
+    "Entity": "Heavily indebted poor countries (HIPC)",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 3.947286459
+  },
+  {
+    "Entity": "Heavily indebted poor countries (HIPC)",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 5.729319261
+  },
+  {
+    "Entity": "High income",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 7.901698941
+  },
+  {
+    "Entity": "High income",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 7.93535064
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2010,
+    "Prevalence": 9.1
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2019,
+    "Prevalence": 7.3
+  },
+  {
+    "Entity": "Hong Kong",
+    "Code": "HKG",
+    "Year": 2010,
+    "Prevalence": 8.5
+  },
+  {
+    "Entity": "Hong Kong",
+    "Code": "HKG",
+    "Year": 2019,
+    "Prevalence": 4.5
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2010,
+    "Prevalence": 6.4
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2019,
+    "Prevalence": 6.9
+  },
+  {
+    "Entity": "IBRD only",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 6.342912114
+  },
+  {
+    "Entity": "IBRD only",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 9.301992976
+  },
+  {
+    "Entity": "IDA & IBRD total",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 6.117635512
+  },
+  {
+    "Entity": "IDA & IBRD total",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 8.986872626
+  },
+  {
+    "Entity": "IDA blend",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 6.37789446
+  },
+  {
+    "Entity": "IDA blend",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 10.60474371
+  },
+  {
+    "Entity": "IDA only",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 4.576042178
+  },
+  {
+    "Entity": "IDA only",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 6.457722643
+  },
+  {
+    "Entity": "IDA total",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 5.18760442
+  },
+  {
+    "Entity": "IDA total",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 7.851219133
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2010,
+    "Prevalence": 1.6
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2019,
+    "Prevalence": 5.8
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2010,
+    "Prevalence": 7.8
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2019,
+    "Prevalence": 10.4
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2010,
+    "Prevalence": 4.8
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2019,
+    "Prevalence": 6.3
+  },
+  {
+    "Entity": "Iran",
+    "Code": "IRN",
+    "Year": 2010,
+    "Prevalence": 8
+  },
+  {
+    "Entity": "Iran",
+    "Code": "IRN",
+    "Year": 2019,
+    "Prevalence": 9.6
+  },
+  {
+    "Entity": "Iraq",
+    "Code": "IRQ",
+    "Year": 2010,
+    "Prevalence": 10.2
+  },
+  {
+    "Entity": "Iraq",
+    "Code": "IRQ",
+    "Year": 2019,
+    "Prevalence": 8.8
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 2010,
+    "Prevalence": 5.2
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 2019,
+    "Prevalence": 3.2
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2010,
+    "Prevalence": 6.5
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2019,
+    "Prevalence": 9.7
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2010,
+    "Prevalence": 5.9
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2019,
+    "Prevalence": 5
+  },
+  {
+    "Entity": "Jamaica",
+    "Code": "JAM",
+    "Year": 2010,
+    "Prevalence": 10.6
+  },
+  {
+    "Entity": "Jamaica",
+    "Code": "JAM",
+    "Year": 2019,
+    "Prevalence": 11.3
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2010,
+    "Prevalence": 5
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2019,
+    "Prevalence": 5.6
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2010,
+    "Prevalence": 10.1
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2019,
+    "Prevalence": 12.7
+  },
+  {
+    "Entity": "Kazakhstan",
+    "Code": "KAZ",
+    "Year": 2010,
+    "Prevalence": 5.8
+  },
+  {
+    "Entity": "Kazakhstan",
+    "Code": "KAZ",
+    "Year": 2019,
+    "Prevalence": 6.1
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2010,
+    "Prevalence": 3.5
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2019,
+    "Prevalence": 3.1
+  },
+  {
+    "Entity": "Kiribati",
+    "Code": "KIR",
+    "Year": 2010,
+    "Prevalence": 6.6
+  },
+  {
+    "Entity": "Kiribati",
+    "Code": "KIR",
+    "Year": 2019,
+    "Prevalence": 22.5
+  },
+  {
+    "Entity": "Kuwait",
+    "Code": "KWT",
+    "Year": 2010,
+    "Prevalence": 14.6
+  },
+  {
+    "Entity": "Kuwait",
+    "Code": "KWT",
+    "Year": 2019,
+    "Prevalence": 12.2
+  },
+  {
+    "Entity": "Kyrgyzstan",
+    "Code": "KGZ",
+    "Year": 2010,
+    "Prevalence": 5.2
+  },
+  {
+    "Entity": "Kyrgyzstan",
+    "Code": "KGZ",
+    "Year": 2019,
+    "Prevalence": 6.1
+  },
+  {
+    "Entity": "Laos",
+    "Code": "LAO",
+    "Year": 2010,
+    "Prevalence": 5.6
+  },
+  {
+    "Entity": "Laos",
+    "Code": "LAO",
+    "Year": 2019,
+    "Prevalence": 6.4
+  },
+  {
+    "Entity": "Late-demographic dividend",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 5.261484203
+  },
+  {
+    "Entity": "Late-demographic dividend",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 8.830811226
+  },
+  {
+    "Entity": "Latin America & Caribbean",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 7.435736021
+  },
+  {
+    "Entity": "Latin America & Caribbean",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 9.694271126
+  },
+  {
+    "Entity": "Latin America & Caribbean (IDA & IBRD)",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 7.36381344
+  },
+  {
+    "Entity": "Latin America & Caribbean (IDA & IBRD)",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 9.67106673
+  },
+  {
+    "Entity": "Latin America & Caribbean (excluding high income)",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 7.51640764
+  },
+  {
+    "Entity": "Latin America & Caribbean (excluding high income)",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 9.840786144
+  },
+  {
+    "Entity": "Latvia",
+    "Code": "LVA",
+    "Year": 2010,
+    "Prevalence": 7.6
+  },
+  {
+    "Entity": "Latvia",
+    "Code": "LVA",
+    "Year": 2019,
+    "Prevalence": 5
+  },
+  {
+    "Entity": "Least developed countries: UN classification",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 4.270718137
+  },
+  {
+    "Entity": "Least developed countries: UN classification",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 6.442058445
+  },
+  {
+    "Entity": "Lebanon",
+    "Code": "LBN",
+    "Year": 2010,
+    "Prevalence": 7.8
+  },
+  {
+    "Entity": "Lebanon",
+    "Code": "LBN",
+    "Year": 2019,
+    "Prevalence": 11.2
+  },
+  {
+    "Entity": "Lesotho",
+    "Code": "LSO",
+    "Year": 2010,
+    "Prevalence": 3.9
+  },
+  {
+    "Entity": "Lesotho",
+    "Code": "LSO",
+    "Year": 2019,
+    "Prevalence": 4.5
+  },
+  {
+    "Entity": "Liberia",
+    "Code": "LBR",
+    "Year": 2010,
+    "Prevalence": 4.7
+  },
+  {
+    "Entity": "Liberia",
+    "Code": "LBR",
+    "Year": 2019,
+    "Prevalence": 2.4
+  },
+  {
+    "Entity": "Libya",
+    "Code": "LBY",
+    "Year": 2010,
+    "Prevalence": 9
+  },
+  {
+    "Entity": "Libya",
+    "Code": "LBY",
+    "Year": 2019,
+    "Prevalence": 10.2
+  },
+  {
+    "Entity": "Liechtenstein",
+    "Code": "LIE",
+    "Year": 2010,
+    "Prevalence": 8.9
+  },
+  {
+    "Entity": "Liechtenstein",
+    "Code": "LIE",
+    "Year": 2019,
+    "Prevalence": 9.4
+  },
+  {
+    "Entity": "Lithuania",
+    "Code": "LTU",
+    "Year": 2010,
+    "Prevalence": 7.6
+  },
+  {
+    "Entity": "Lithuania",
+    "Code": "LTU",
+    "Year": 2019,
+    "Prevalence": 3.8
+  },
+  {
+    "Entity": "Low & middle income",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 6.10854232
+  },
+  {
+    "Entity": "Low & middle income",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 9.010097774
+  },
+  {
+    "Entity": "Low income",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 3.978297977
+  },
+  {
+    "Entity": "Low income",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 6.391683468
+  },
+  {
+    "Entity": "Lower middle income",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 6.946160117
+  },
+  {
+    "Entity": "Lower middle income",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 9.22358197
+  },
+  {
+    "Entity": "Luxembourg",
+    "Code": "LUX",
+    "Year": 2010,
+    "Prevalence": 5.3
+  },
+  {
+    "Entity": "Luxembourg",
+    "Code": "LUX",
+    "Year": 2019,
+    "Prevalence": 5
+  },
+  {
+    "Entity": "Macao",
+    "Code": "MAC",
+    "Year": 2010,
+    "Prevalence": 8.5
+  },
+  {
+    "Entity": "Macao",
+    "Code": "MAC",
+    "Year": 2019,
+    "Prevalence": 4.3
+  },
+  {
+    "Entity": "Madagascar",
+    "Code": "MDG",
+    "Year": 2010,
+    "Prevalence": 3.2
+  },
+  {
+    "Entity": "Madagascar",
+    "Code": "MDG",
+    "Year": 2019,
+    "Prevalence": 4.5
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Year": 2010,
+    "Prevalence": 2.3
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Year": 2019,
+    "Prevalence": 4.5
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2010,
+    "Prevalence": 11.6
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2019,
+    "Prevalence": 16.7
+  },
+  {
+    "Entity": "Maldives",
+    "Code": "MDV",
+    "Year": 2010,
+    "Prevalence": 7.4
+  },
+  {
+    "Entity": "Maldives",
+    "Code": "MDV",
+    "Year": 2019,
+    "Prevalence": 9.2
+  },
+  {
+    "Entity": "Mali",
+    "Code": "MLI",
+    "Year": 2010,
+    "Prevalence": 4.2
+  },
+  {
+    "Entity": "Mali",
+    "Code": "MLI",
+    "Year": 2019,
+    "Prevalence": 2.4
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "Year": 2010,
+    "Prevalence": 6.8
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "Year": 2019,
+    "Prevalence": 8.3
+  },
+  {
+    "Entity": "Marshall Islands",
+    "Code": "MHL",
+    "Year": 2010,
+    "Prevalence": 9.1
+  },
+  {
+    "Entity": "Marshall Islands",
+    "Code": "MHL",
+    "Year": 2019,
+    "Prevalence": 30.5
+  },
+  {
+    "Entity": "Mauritania",
+    "Code": "MRT",
+    "Year": 2010,
+    "Prevalence": 4.8
+  },
+  {
+    "Entity": "Mauritania",
+    "Code": "MRT",
+    "Year": 2019,
+    "Prevalence": 7.1
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 2010,
+    "Prevalence": 16.2
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 2019,
+    "Prevalence": 22
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2010,
+    "Prevalence": 10.8
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2019,
+    "Prevalence": 13.5
+  },
+  {
+    "Entity": "Micronesia (country)",
+    "Code": "FSM",
+    "Year": 2010,
+    "Prevalence": 6.2
+  },
+  {
+    "Entity": "Micronesia (country)",
+    "Code": "FSM",
+    "Year": 2019,
+    "Prevalence": 11.9
+  },
+  {
+    "Entity": "Middle East & North Africa",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 9.973088195
+  },
+  {
+    "Entity": "Middle East & North Africa",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 11.37388398
+  },
+  {
+    "Entity": "Middle East & North Africa (IDA & IBRD)",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 9.065381108
+  },
+  {
+    "Entity": "Middle East & North Africa (IDA & IBRD)",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 10.80461564
+  },
+  {
+    "Entity": "Middle East & North Africa (excluding high income)",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 9.060933586
+  },
+  {
+    "Entity": "Middle East & North Africa (excluding high income)",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 10.79064373
+  },
+  {
+    "Entity": "Middle income",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 6.266650338
+  },
+  {
+    "Entity": "Middle income",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 9.239025356
+  },
+  {
+    "Entity": "Moldova",
+    "Code": "MDA",
+    "Year": 2010,
+    "Prevalence": 7.6
+  },
+  {
+    "Entity": "Moldova",
+    "Code": "MDA",
+    "Year": 2019,
+    "Prevalence": 5.7
+  },
+  {
+    "Entity": "Monaco",
+    "Code": "MCO",
+    "Year": 2010,
+    "Prevalence": 6.7
+  },
+  {
+    "Entity": "Monaco",
+    "Code": "MCO",
+    "Year": 2019,
+    "Prevalence": 2.9
+  },
+  {
+    "Entity": "Mongolia",
+    "Code": "MNG",
+    "Year": 2010,
+    "Prevalence": 1.6
+  },
+  {
+    "Entity": "Mongolia",
+    "Code": "MNG",
+    "Year": 2019,
+    "Prevalence": 4.7
+  },
+  {
+    "Entity": "Montenegro",
+    "Code": "MNE",
+    "Year": 2010,
+    "Prevalence": 6.9
+  },
+  {
+    "Entity": "Montenegro",
+    "Code": "MNE",
+    "Year": 2019,
+    "Prevalence": 9
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2010,
+    "Prevalence": 8.3
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2019,
+    "Prevalence": 7
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Year": 2010,
+    "Prevalence": 4
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Year": 2019,
+    "Prevalence": 3.3
+  },
+  {
+    "Entity": "Myanmar",
+    "Code": "MMR",
+    "Year": 2010,
+    "Prevalence": 3.2
+  },
+  {
+    "Entity": "Myanmar",
+    "Code": "MMR",
+    "Year": 2019,
+    "Prevalence": 3.9
+  },
+  {
+    "Entity": "Namibia",
+    "Code": "NAM",
+    "Year": 2010,
+    "Prevalence": 4.4
+  },
+  {
+    "Entity": "Namibia",
+    "Code": "NAM",
+    "Year": 2019,
+    "Prevalence": 4.5
+  },
+  {
+    "Entity": "Nauru",
+    "Code": "NRU",
+    "Year": 2010,
+    "Prevalence": 30.9
+  },
+  {
+    "Entity": "Nauru",
+    "Code": "NRU",
+    "Year": 2019,
+    "Prevalence": 12
+  },
+  {
+    "Entity": "Nepal",
+    "Code": "NPL",
+    "Year": 2010,
+    "Prevalence": 3.9
+  },
+  {
+    "Entity": "Nepal",
+    "Code": "NPL",
+    "Year": 2019,
+    "Prevalence": 7.2
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2010,
+    "Prevalence": 5.3
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2019,
+    "Prevalence": 5.4
+  },
+  {
+    "Entity": "New Caledonia",
+    "Code": "NCL",
+    "Year": 2010,
+    "Prevalence": 7.2
+  },
+  {
+    "Entity": "New Caledonia",
+    "Code": "NCL",
+    "Year": 2019,
+    "Prevalence": 21.8
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2010,
+    "Prevalence": 5.2
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2019,
+    "Prevalence": 6.2
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2010,
+    "Prevalence": 10
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2019,
+    "Prevalence": 11.4
+  },
+  {
+    "Entity": "Niger",
+    "Code": "NER",
+    "Year": 2010,
+    "Prevalence": 3.9
+  },
+  {
+    "Entity": "Niger",
+    "Code": "NER",
+    "Year": 2019,
+    "Prevalence": 2.4
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "Year": 2010,
+    "Prevalence": 4.7
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "Year": 2019,
+    "Prevalence": 3.1
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 10.18650148
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 10.46148847
+  },
+  {
+    "Entity": "North Korea",
+    "Code": "PRK",
+    "Year": 2010,
+    "Prevalence": 5.3
+  },
+  {
+    "Entity": "North Korea",
+    "Code": "PRK",
+    "Year": 2019,
+    "Prevalence": 6.4
+  },
+  {
+    "Entity": "North Macedonia",
+    "Code": "MKD",
+    "Year": 2010,
+    "Prevalence": 6.9
+  },
+  {
+    "Entity": "North Macedonia",
+    "Code": "MKD",
+    "Year": 2019,
+    "Prevalence": 9.3
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 2010,
+    "Prevalence": 3.6
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 2019,
+    "Prevalence": 5.3
+  },
+  {
+    "Entity": "OECD members",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 7.751251766
+  },
+  {
+    "Entity": "OECD members",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 8.320516057
+  },
+  {
+    "Entity": "Oman",
+    "Code": "OMN",
+    "Year": 2010,
+    "Prevalence": 13.4
+  },
+  {
+    "Entity": "Oman",
+    "Code": "OMN",
+    "Year": 2019,
+    "Prevalence": 10.1
+  },
+  {
+    "Entity": "Other small states",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 7.403567888
+  },
+  {
+    "Entity": "Other small states",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 8.241798205
+  },
+  {
+    "Entity": "Pacific island small states",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 7.123781551
+  },
+  {
+    "Entity": "Pacific island small states",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 15.32532765
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2010,
+    "Prevalence": 9.1
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2019,
+    "Prevalence": 19.9
+  },
+  {
+    "Entity": "Palau",
+    "Code": "PLW",
+    "Year": 2010,
+    "Prevalence": 9.1
+  },
+  {
+    "Entity": "Palau",
+    "Code": "PLW",
+    "Year": 2019,
+    "Prevalence": 17.9
+  },
+  {
+    "Entity": "Palestine",
+    "Code": "PSE",
+    "Year": 2010,
+    "Prevalence": 8.6
+  },
+  {
+    "Entity": "Palestine",
+    "Code": "PSE",
+    "Year": 2019,
+    "Prevalence": 9.5
+  },
+  {
+    "Entity": "Panama",
+    "Code": "PAN",
+    "Year": 2010,
+    "Prevalence": 9.6
+  },
+  {
+    "Entity": "Panama",
+    "Code": "PAN",
+    "Year": 2019,
+    "Prevalence": 7.7
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2010,
+    "Prevalence": 3
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2019,
+    "Prevalence": 17.9
+  },
+  {
+    "Entity": "Paraguay",
+    "Code": "PRY",
+    "Year": 2010,
+    "Prevalence": 4.9
+  },
+  {
+    "Entity": "Paraguay",
+    "Code": "PRY",
+    "Year": 2019,
+    "Prevalence": 9.6
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Year": 2010,
+    "Prevalence": 6.2
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Year": 2019,
+    "Prevalence": 6.6
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2010,
+    "Prevalence": 7.7
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2019,
+    "Prevalence": 7.1
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2010,
+    "Prevalence": 7.6
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2019,
+    "Prevalence": 6.1
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2010,
+    "Prevalence": 9.7
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2019,
+    "Prevalence": 9.8
+  },
+  {
+    "Entity": "Post-demographic dividend",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 7.625918323
+  },
+  {
+    "Entity": "Post-demographic dividend",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 7.579990606
+  },
+  {
+    "Entity": "Pre-demographic dividend",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 4.325468867
+  },
+  {
+    "Entity": "Pre-demographic dividend",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 5.371279804
+  },
+  {
+    "Entity": "Puerto Rico",
+    "Code": "PRI",
+    "Year": 2010,
+    "Prevalence": 10.6
+  },
+  {
+    "Entity": "Puerto Rico",
+    "Code": "PRI",
+    "Year": 2019,
+    "Prevalence": 13.7
+  },
+  {
+    "Entity": "Qatar",
+    "Code": "QAT",
+    "Year": 2010,
+    "Prevalence": 15.4
+  },
+  {
+    "Entity": "Qatar",
+    "Code": "QAT",
+    "Year": 2019,
+    "Prevalence": 15.6
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2010,
+    "Prevalence": 6.9
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2019,
+    "Prevalence": 6.9
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2010,
+    "Prevalence": 7.6
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2019,
+    "Prevalence": 6.1
+  },
+  {
+    "Entity": "Rwanda",
+    "Code": "RWA",
+    "Year": 2010,
+    "Prevalence": 1.6
+  },
+  {
+    "Entity": "Rwanda",
+    "Code": "RWA",
+    "Year": 2019,
+    "Prevalence": 5.1
+  },
+  {
+    "Entity": "Saint Kitts and Nevis",
+    "Code": "KNA",
+    "Year": 2010,
+    "Prevalence": 9
+  },
+  {
+    "Entity": "Saint Kitts and Nevis",
+    "Code": "KNA",
+    "Year": 2019,
+    "Prevalence": 13.3
+  },
+  {
+    "Entity": "Saint Lucia",
+    "Code": "LCA",
+    "Year": 2010,
+    "Prevalence": 9.3
+  },
+  {
+    "Entity": "Saint Lucia",
+    "Code": "LCA",
+    "Year": 2019,
+    "Prevalence": 11.6
+  },
+  {
+    "Entity": "Saint Vincent and the Grenadines",
+    "Code": "VCT",
+    "Year": 2010,
+    "Prevalence": 8.4
+  },
+  {
+    "Entity": "Saint Vincent and the Grenadines",
+    "Code": "VCT",
+    "Year": 2019,
+    "Prevalence": 11.6
+  },
+  {
+    "Entity": "Samoa",
+    "Code": "WSM",
+    "Year": 2010,
+    "Prevalence": 7.7
+  },
+  {
+    "Entity": "Samoa",
+    "Code": "WSM",
+    "Year": 2019,
+    "Prevalence": 9.2
+  },
+  {
+    "Entity": "San Marino",
+    "Code": "SMR",
+    "Year": 2010,
+    "Prevalence": 5.9
+  },
+  {
+    "Entity": "San Marino",
+    "Code": "SMR",
+    "Year": 2019,
+    "Prevalence": 5.9
+  },
+  {
+    "Entity": "Sao Tome and Principe",
+    "Code": "STP",
+    "Year": 2010,
+    "Prevalence": 4.7
+  },
+  {
+    "Entity": "Sao Tome and Principe",
+    "Code": "STP",
+    "Year": 2019,
+    "Prevalence": 2.4
+  },
+  {
+    "Entity": "Saudi Arabia",
+    "Code": "SAU",
+    "Year": 2010,
+    "Prevalence": 16.8
+  },
+  {
+    "Entity": "Saudi Arabia",
+    "Code": "SAU",
+    "Year": 2019,
+    "Prevalence": 15.8
+  },
+  {
+    "Entity": "Senegal",
+    "Code": "SEN",
+    "Year": 2010,
+    "Prevalence": 4.7
+  },
+  {
+    "Entity": "Senegal",
+    "Code": "SEN",
+    "Year": 2019,
+    "Prevalence": 2.4
+  },
+  {
+    "Entity": "Serbia",
+    "Code": "SRB",
+    "Year": 2010,
+    "Prevalence": 6.9
+  },
+  {
+    "Entity": "Serbia",
+    "Code": "SRB",
+    "Year": 2019,
+    "Prevalence": 9
+  },
+  {
+    "Entity": "Seychelles",
+    "Code": "SYC",
+    "Year": 2010,
+    "Prevalence": 14.4
+  },
+  {
+    "Entity": "Seychelles",
+    "Code": "SYC",
+    "Year": 2019,
+    "Prevalence": 12.3
+  },
+  {
+    "Entity": "Sierra Leone",
+    "Code": "SLE",
+    "Year": 2010,
+    "Prevalence": 4.4
+  },
+  {
+    "Entity": "Sierra Leone",
+    "Code": "SLE",
+    "Year": 2019,
+    "Prevalence": 2.4
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 2010,
+    "Prevalence": 10.2
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 2019,
+    "Prevalence": 5.5
+  },
+  {
+    "Entity": "Sint Maarten (Dutch part)",
+    "Code": "SXM",
+    "Year": 2019,
+    "Prevalence": 6.8
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2010,
+    "Prevalence": 6.4
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2019,
+    "Prevalence": 6.5
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Year": 2010,
+    "Prevalence": 7.7
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Year": 2019,
+    "Prevalence": 5.9
+  },
+  {
+    "Entity": "Small states",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 8.013181637
+  },
+  {
+    "Entity": "Small states",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 9.268443645
+  },
+  {
+    "Entity": "Solomon Islands",
+    "Code": "SLB",
+    "Year": 2010,
+    "Prevalence": 3.3
+  },
+  {
+    "Entity": "Solomon Islands",
+    "Code": "SLB",
+    "Year": 2019,
+    "Prevalence": 19
+  },
+  {
+    "Entity": "Somalia",
+    "Code": "SOM",
+    "Year": 2010,
+    "Prevalence": 3
+  },
+  {
+    "Entity": "Somalia",
+    "Code": "SOM",
+    "Year": 2019,
+    "Prevalence": 5.1
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2010,
+    "Prevalence": 4.5
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2019,
+    "Prevalence": 12.7
+  },
+  {
+    "Entity": "South Asia",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 7.813139557
+  },
+  {
+    "Entity": "South Asia",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 11.23792641
+  },
+  {
+    "Entity": "South Asia (IDA & IBRD)",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 7.813139557
+  },
+  {
+    "Entity": "South Asia (IDA & IBRD)",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 11.23792641
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2010,
+    "Prevalence": 7.9
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2019,
+    "Prevalence": 6.9
+  },
+  {
+    "Entity": "South Sudan",
+    "Code": "SSD",
+    "Year": 2019,
+    "Prevalence": 10.2
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2010,
+    "Prevalence": 6.6
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2019,
+    "Prevalence": 6.9
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Year": 2010,
+    "Prevalence": 10.9
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Year": 2019,
+    "Prevalence": 10.7
+  },
+  {
+    "Entity": "Sub-Saharan Africa",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 3.805243904
+  },
+  {
+    "Entity": "Sub-Saharan Africa",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 5.359439866
+  },
+  {
+    "Entity": "Sub-Saharan Africa (IDA & IBRD)",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 3.805243904
+  },
+  {
+    "Entity": "Sub-Saharan Africa (IDA & IBRD)",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 5.359439866
+  },
+  {
+    "Entity": "Sub-Saharan Africa (excluding high income)",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 3.803725027
+  },
+  {
+    "Entity": "Sub-Saharan Africa (excluding high income)",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 5.358631009
+  },
+  {
+    "Entity": "Sudan",
+    "Code": "SDN",
+    "Year": 2010,
+    "Prevalence": 4.2
+  },
+  {
+    "Entity": "Sudan",
+    "Code": "SDN",
+    "Year": 2019,
+    "Prevalence": 22.1
+  },
+  {
+    "Entity": "Suriname",
+    "Code": "SUR",
+    "Year": 2010,
+    "Prevalence": 10.5
+  },
+  {
+    "Entity": "Suriname",
+    "Code": "SUR",
+    "Year": 2019,
+    "Prevalence": 12.5
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2010,
+    "Prevalence": 5.2
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2019,
+    "Prevalence": 4.8
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2010,
+    "Prevalence": 8.9
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2019,
+    "Prevalence": 5.7
+  },
+  {
+    "Entity": "Syria",
+    "Code": "SYR",
+    "Year": 2010,
+    "Prevalence": 10.8
+  },
+  {
+    "Entity": "Syria",
+    "Code": "SYR",
+    "Year": 2019,
+    "Prevalence": 13.5
+  },
+  {
+    "Entity": "Tajikistan",
+    "Code": "TJK",
+    "Year": 2010,
+    "Prevalence": 5
+  },
+  {
+    "Entity": "Tajikistan",
+    "Code": "TJK",
+    "Year": 2019,
+    "Prevalence": 6.1
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Year": 2010,
+    "Prevalence": 3.2
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Year": 2019,
+    "Prevalence": 5.7
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2010,
+    "Prevalence": 7.1
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2019,
+    "Prevalence": 7
+  },
+  {
+    "Entity": "Timor",
+    "Code": "TLS",
+    "Year": 2010,
+    "Prevalence": 3.5
+  },
+  {
+    "Entity": "Timor",
+    "Code": "TLS",
+    "Year": 2019,
+    "Prevalence": 6.7
+  },
+  {
+    "Entity": "Togo",
+    "Code": "TGO",
+    "Year": 2010,
+    "Prevalence": 4.3
+  },
+  {
+    "Entity": "Togo",
+    "Code": "TGO",
+    "Year": 2019,
+    "Prevalence": 2.4
+  },
+  {
+    "Entity": "Tonga",
+    "Code": "TON",
+    "Year": 2010,
+    "Prevalence": 13.4
+  },
+  {
+    "Entity": "Tonga",
+    "Code": "TON",
+    "Year": 2019,
+    "Prevalence": 15.7
+  },
+  {
+    "Entity": "Trinidad and Tobago",
+    "Code": "TTO",
+    "Year": 2010,
+    "Prevalence": 11.7
+  },
+  {
+    "Entity": "Trinidad and Tobago",
+    "Code": "TTO",
+    "Year": 2019,
+    "Prevalence": 11
+  },
+  {
+    "Entity": "Tunisia",
+    "Code": "TUN",
+    "Year": 2010,
+    "Prevalence": 9.3
+  },
+  {
+    "Entity": "Tunisia",
+    "Code": "TUN",
+    "Year": 2019,
+    "Prevalence": 8.5
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2010,
+    "Prevalence": 8
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2019,
+    "Prevalence": 11.1
+  },
+  {
+    "Entity": "Turkmenistan",
+    "Code": "TKM",
+    "Year": 2010,
+    "Prevalence": 5.3
+  },
+  {
+    "Entity": "Turkmenistan",
+    "Code": "TKM",
+    "Year": 2019,
+    "Prevalence": 6.1
+  },
+  {
+    "Entity": "Tuvalu",
+    "Code": "TUV",
+    "Year": 2010,
+    "Prevalence": 13.9
+  },
+  {
+    "Entity": "Tuvalu",
+    "Code": "TUV",
+    "Year": 2019,
+    "Prevalence": 22.1
+  },
+  {
+    "Entity": "Uganda",
+    "Code": "UGA",
+    "Year": 2010,
+    "Prevalence": 2.2
+  },
+  {
+    "Entity": "Uganda",
+    "Code": "UGA",
+    "Year": 2019,
+    "Prevalence": 2.5
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2010,
+    "Prevalence": 7.6
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2019,
+    "Prevalence": 6.1
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2010,
+    "Prevalence": 18.7
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2019,
+    "Prevalence": 16.3
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2010,
+    "Prevalence": 3.6
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2019,
+    "Prevalence": 3.9
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2010,
+    "Prevalence": 10.3
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2019,
+    "Prevalence": 10.8
+  },
+  {
+    "Entity": "United States Virgin Islands",
+    "Code": "VIR",
+    "Year": 2010,
+    "Prevalence": 9.9
+  },
+  {
+    "Entity": "United States Virgin Islands",
+    "Code": "VIR",
+    "Year": 2019,
+    "Prevalence": 12.3
+  },
+  {
+    "Entity": "Upper middle income",
+    "Code": "",
+    "Year": 2010,
+    "Prevalence": 5.549955379
+  },
+  {
+    "Entity": "Upper middle income",
+    "Code": "",
+    "Year": 2019,
+    "Prevalence": 9.256866035
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Year": 2010,
+    "Prevalence": 5.7
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Year": 2019,
+    "Prevalence": 7.3
+  },
+  {
+    "Entity": "Uzbekistan",
+    "Code": "UZB",
+    "Year": 2010,
+    "Prevalence": 5.2
+  },
+  {
+    "Entity": "Uzbekistan",
+    "Code": "UZB",
+    "Year": 2019,
+    "Prevalence": 6.5
+  },
+  {
+    "Entity": "Vanuatu",
+    "Code": "VUT",
+    "Year": 2010,
+    "Prevalence": 3.2
+  },
+  {
+    "Entity": "Vanuatu",
+    "Code": "VUT",
+    "Year": 2019,
+    "Prevalence": 11.9
+  },
+  {
+    "Entity": "Venezuela",
+    "Code": "VEN",
+    "Year": 2010,
+    "Prevalence": 6.5
+  },
+  {
+    "Entity": "Venezuela",
+    "Code": "VEN",
+    "Year": 2019,
+    "Prevalence": 7
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2010,
+    "Prevalence": 3.5
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2019,
+    "Prevalence": 6
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2010,
+    "Prevalence": 6.448971971
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2019,
+    "Prevalence": 8.812211545
+  },
+  {
+    "Entity": "Yemen",
+    "Code": "YEM",
+    "Year": 2010,
+    "Prevalence": 3
+  },
+  {
+    "Entity": "Yemen",
+    "Code": "YEM",
+    "Year": 2019,
+    "Prevalence": 5.4
+  },
+  {
+    "Entity": "Zambia",
+    "Code": "ZMB",
+    "Year": 2010,
+    "Prevalence": 4
+  },
+  {
+    "Entity": "Zambia",
+    "Code": "ZMB",
+    "Year": 2019,
+    "Prevalence": 4.5
+  },
+  {
+    "Entity": "Zimbabwe",
+    "Code": "ZWE",
+    "Year": 2010,
+    "Prevalence": 4.1
+  },
+  {
+    "Entity": "Zimbabwe",
+    "Code": "ZWE",
+    "Year": 2019,
+    "Prevalence": 1.8
+  }
+]

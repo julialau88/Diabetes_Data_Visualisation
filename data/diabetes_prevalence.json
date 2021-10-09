@@ -1,0 +1,2066 @@
+[
+  {
+    "Country Name": "Aruba",
+    "Country Code": "ABW",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 10.2,
+    "value_2019": 11.6
+  },
+  {
+    "Country Name": "Africa Eastern and Southern",
+    "Country Code": "AFE",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.351852242,
+    "value_2019": 6.648452482
+  },
+  {
+    "Country Name": "Afghanistan",
+    "Country Code": "AFG",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 8.6,
+    "value_2019": 9.2
+  },
+  {
+    "Country Name": "Africa Western and Central",
+    "Country Code": "AFW",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.472570947,
+    "value_2019": 3.395120021
+  },
+  {
+    "Country Name": "Angola",
+    "Country Code": "AGO",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.5,
+    "value_2019": 4.5
+  },
+  {
+    "Country Name": "Albania",
+    "Country Code": "ALB",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.5,
+    "value_2019": 9
+  },
+  {
+    "Country Name": "Andorra",
+    "Country Code": "AND",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.6,
+    "value_2019": 7.7
+  },
+  {
+    "Country Name": "Arab World",
+    "Country Code": "ARB",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.804548729,
+    "value_2019": 12.53600133
+  },
+  {
+    "Country Name": "United Arab Emirates",
+    "Country Code": "ARE",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 18.7,
+    "value_2019": 16.3
+  },
+  {
+    "Country Name": "Argentina",
+    "Country Code": "ARG",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.7,
+    "value_2019": 5.9
+  },
+  {
+    "Country Name": "Armenia",
+    "Country Code": "ARM",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.8,
+    "value_2019": 6.1
+  },
+  {
+    "Country Name": "Antigua and Barbuda",
+    "Country Code": "ATG",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.1,
+    "value_2019": 13.1
+  },
+  {
+    "Country Name": "Australia",
+    "Country Code": "AUS",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.7,
+    "value_2019": 5.6
+  },
+  {
+    "Country Name": "Austria",
+    "Country Code": "AUT",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 8.9,
+    "value_2019": 6.6
+  },
+  {
+    "Country Name": "Azerbaijan",
+    "Country Code": "AZE",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.5,
+    "value_2019": 6.1
+  },
+  {
+    "Country Name": "Burundi",
+    "Country Code": "BDI",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 1.8,
+    "value_2019": 5.1
+  },
+  {
+    "Country Name": "Belgium",
+    "Country Code": "BEL",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.3,
+    "value_2019": 4.6
+  },
+  {
+    "Country Name": "Benin",
+    "Country Code": "BEN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.6,
+    "value_2019": 1
+  },
+  {
+    "Country Name": "Burkina Faso",
+    "Country Code": "BFA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.8,
+    "value_2019": 7.3
+  },
+  {
+    "Country Name": "Bangladesh",
+    "Country Code": "BGD",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.6,
+    "value_2019": 9.2
+  },
+  {
+    "Country Name": "Bulgaria",
+    "Country Code": "BGR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.5,
+    "value_2019": 6
+  },
+  {
+    "Country Name": "Bahrain",
+    "Country Code": "BHR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 15.4,
+    "value_2019": 15.6
+  },
+  {
+    "Country Name": "Bahamas, The",
+    "Country Code": "BHS",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 10.4,
+    "value_2019": 8.8
+  },
+  {
+    "Country Name": "Bosnia and Herzegovina",
+    "Country Code": "BIH",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.1,
+    "value_2019": 9
+  },
+  {
+    "Country Name": "Belarus",
+    "Country Code": "BLR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.6,
+    "value_2019": 5
+  },
+  {
+    "Country Name": "Belize",
+    "Country Code": "BLZ",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.8,
+    "value_2019": 17.1
+  },
+  {
+    "Country Name": "Bermuda",
+    "Country Code": "BMU",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 10.2,
+    "value_2019": 6.7
+  },
+  {
+    "Country Name": "Bolivia",
+    "Country Code": "BOL",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6,
+    "value_2019": 6.8
+  },
+  {
+    "Country Name": "Brazil",
+    "Country Code": "BRA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.4,
+    "value_2019": 10.4
+  },
+  {
+    "Country Name": "Barbados",
+    "Country Code": "BRB",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 8,
+    "value_2019": 13.4
+  },
+  {
+    "Country Name": "Brunei Darussalam",
+    "Country Code": "BRN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 12.6,
+    "value_2019": 13.3
+  },
+  {
+    "Country Name": "Bhutan",
+    "Country Code": "BTN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.6,
+    "value_2019": 10.3
+  },
+  {
+    "Country Name": "Botswana",
+    "Country Code": "BWA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.4,
+    "value_2019": 5.8
+  },
+  {
+    "Country Name": "Central African Republic",
+    "Country Code": "CAF",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.5,
+    "value_2019": 6
+  },
+  {
+    "Country Name": "Canada",
+    "Country Code": "CAN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.2,
+    "value_2019": 7.6
+  },
+  {
+    "Country Name": "Central Europe and the Baltics",
+    "Country Code": "CEB",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.06113659,
+    "value_2019": 6.295943662
+  },
+  {
+    "Country Name": "Switzerland",
+    "Country Code": "CHE",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 8.9,
+    "value_2019": 5.7
+  },
+  {
+    "Country Name": "Channel Islands",
+    "Country Code": "CHI",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3,
+    "value_2019": 3.9
+  },
+  {
+    "Country Name": "Chile",
+    "Country Code": "CHL",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.7,
+    "value_2019": 8.6
+  },
+  {
+    "Country Name": "China",
+    "Country Code": "CHN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.2,
+    "value_2019": 9.2
+  },
+  {
+    "Country Name": "Cote d'Ivoire",
+    "Country Code": "CIV",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.7,
+    "value_2019": 2.4
+  },
+  {
+    "Country Name": "Cameroon",
+    "Country Code": "CMR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.9,
+    "value_2019": 6
+  },
+  {
+    "Country Name": "Congo, Dem. Rep.",
+    "Country Code": "COD",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.2,
+    "value_2019": 6
+  },
+  {
+    "Country Name": "Congo, Rep.",
+    "Country Code": "COG",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.1,
+    "value_2019": 6
+  },
+  {
+    "Country Name": "Colombia",
+    "Country Code": "COL",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.2,
+    "value_2019": 7.4
+  },
+  {
+    "Country Name": "Comoros",
+    "Country Code": "COM",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.4,
+    "value_2019": 12.3
+  },
+  {
+    "Country Name": "Cabo Verde",
+    "Country Code": "CPV",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.3,
+    "value_2019": 2.4
+  },
+  {
+    "Country Name": "Costa Rica",
+    "Country Code": "CRI",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.3,
+    "value_2019": 9.1
+  },
+  {
+    "Country Name": "Caribbean small states",
+    "Country Code": "CSS",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 10.41807244,
+    "value_2019": 11.62934214
+  },
+  {
+    "Country Name": "Cuba",
+    "Country Code": "CUB",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.5,
+    "value_2019": 9.6
+  },
+  {
+    "Country Name": "Curacao",
+    "Country Code": "CUW",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": "",
+    "value_2019": 11.6
+  },
+  {
+    "Country Name": "Cayman Islands",
+    "Country Code": "CYM",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 10.2,
+    "value_2019": 6.8
+  },
+  {
+    "Country Name": "Cyprus",
+    "Country Code": "CYP",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.1,
+    "value_2019": 9
+  },
+  {
+    "Country Name": "Czech Republic",
+    "Country Code": "CZE",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.4,
+    "value_2019": 7
+  },
+  {
+    "Country Name": "Germany",
+    "Country Code": "DEU",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 8.9,
+    "value_2019": 10.4
+  },
+  {
+    "Country Name": "Djibouti",
+    "Country Code": "DJI",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.3,
+    "value_2019": 5.1
+  },
+  {
+    "Country Name": "Dominica",
+    "Country Code": "DMA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 11.5,
+    "value_2019": 11.6
+  },
+  {
+    "Country Name": "Denmark",
+    "Country Code": "DNK",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.6,
+    "value_2019": 8.3
+  },
+  {
+    "Country Name": "Dominican Republic",
+    "Country Code": "DOM",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 11.2,
+    "value_2019": 8.6
+  },
+  {
+    "Country Name": "Algeria",
+    "Country Code": "DZA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 8.5,
+    "value_2019": 6.7
+  },
+  {
+    "Country Name": "East Asia & Pacific (excluding high income)",
+    "Country Code": "EAP",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.573145372,
+    "value_2019": 8.488061856
+  },
+  {
+    "Country Name": "Early-demographic dividend",
+    "Country Code": "EAR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.378814011,
+    "value_2019": 10.09091053
+  },
+  {
+    "Country Name": "East Asia & Pacific",
+    "Country Code": "EAS",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.756760965,
+    "value_2019": 8.202460904
+  },
+  {
+    "Country Name": "Europe & Central Asia (excluding high income)",
+    "Country Code": "ECA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.243488041,
+    "value_2019": 7.215087542
+  },
+  {
+    "Country Name": "Europe & Central Asia",
+    "Country Code": "ECS",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.881917468,
+    "value_2019": 6.687622963
+  },
+  {
+    "Country Name": "Ecuador",
+    "Country Code": "ECU",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.9,
+    "value_2019": 5.5
+  },
+  {
+    "Country Name": "Egypt, Arab Rep.",
+    "Country Code": "EGY",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 11.4,
+    "value_2019": 17.2
+  },
+  {
+    "Country Name": "Euro area",
+    "Country Code": "EMU",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.094378243,
+    "value_2019": 6.761899919
+  },
+  {
+    "Country Name": "Eritrea",
+    "Country Code": "ERI",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 2.5,
+    "value_2019": 5.1
+  },
+  {
+    "Country Name": "Spain",
+    "Country Code": "ESP",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.6,
+    "value_2019": 6.9
+  },
+  {
+    "Country Name": "Estonia",
+    "Country Code": "EST",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.6,
+    "value_2019": 4.2
+  },
+  {
+    "Country Name": "Ethiopia",
+    "Country Code": "ETH",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 2.5,
+    "value_2019": 4.3
+  },
+  {
+    "Country Name": "European Union",
+    "Country Code": "EUU",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.02664689,
+    "value_2019": 6.67189385
+  },
+  {
+    "Country Name": "Fragile and conflict affected situations",
+    "Country Code": "FCS",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.758644821,
+    "value_2019": 6.235320341
+  },
+  {
+    "Country Name": "Finland",
+    "Country Code": "FIN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.7,
+    "value_2019": 5.6
+  },
+  {
+    "Country Name": "Fiji",
+    "Country Code": "FJI",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.4,
+    "value_2019": 14.7
+  },
+  {
+    "Country Name": "France",
+    "Country Code": "FRA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.7,
+    "value_2019": 4.8
+  },
+  {
+    "Country Name": "Faroe Islands",
+    "Country Code": "FRO",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": "",
+    "value_2019": 4.7
+  },
+  {
+    "Country Name": "Micronesia, Fed. Sts.",
+    "Country Code": "FSM",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.2,
+    "value_2019": 11.9
+  },
+  {
+    "Country Name": "Gabon",
+    "Country Code": "GAB",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5,
+    "value_2019": 6
+  },
+  {
+    "Country Name": "United Kingdom",
+    "Country Code": "GBR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.6,
+    "value_2019": 3.9
+  },
+  {
+    "Country Name": "Georgia",
+    "Country Code": "GEO",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.5,
+    "value_2019": 5.8
+  },
+  {
+    "Country Name": "Ghana",
+    "Country Code": "GHA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.3,
+    "value_2019": 2.5
+  },
+  {
+    "Country Name": "Guinea",
+    "Country Code": "GIN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.3,
+    "value_2019": 2.4
+  },
+  {
+    "Country Name": "Gambia, The",
+    "Country Code": "GMB",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.3,
+    "value_2019": 1.9
+  },
+  {
+    "Country Name": "Guinea-Bissau",
+    "Country Code": "GNB",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.9,
+    "value_2019": 2.4
+  },
+  {
+    "Country Name": "Equatorial Guinea",
+    "Country Code": "GNQ",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.8,
+    "value_2019": 6
+  },
+  {
+    "Country Name": "Greece",
+    "Country Code": "GRC",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6,
+    "value_2019": 4.7
+  },
+  {
+    "Country Name": "Grenada",
+    "Country Code": "GRD",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.5,
+    "value_2019": 10.7
+  },
+  {
+    "Country Name": "Greenland",
+    "Country Code": "GRL",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": "",
+    "value_2019": 2.1
+  },
+  {
+    "Country Name": "Guatemala",
+    "Country Code": "GTM",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 8.6,
+    "value_2019": 10
+  },
+  {
+    "Country Name": "Guam",
+    "Country Code": "GUM",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.7,
+    "value_2019": 18.7
+  },
+  {
+    "Country Name": "Guyana",
+    "Country Code": "GUY",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.5,
+    "value_2019": 11.6
+  },
+  {
+    "Country Name": "High income",
+    "Country Code": "HIC",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.901698941,
+    "value_2019": 7.93535064
+  },
+  {
+    "Country Name": "Hong Kong SAR, China",
+    "Country Code": "HKG",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 8.5,
+    "value_2019": 4.5
+  },
+  {
+    "Country Name": "Honduras",
+    "Country Code": "HND",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.1,
+    "value_2019": 7.3
+  },
+  {
+    "Country Name": "Heavily indebted poor countries (HIPC)",
+    "Country Code": "HPC",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.947286459,
+    "value_2019": 5.729319261
+  },
+  {
+    "Country Name": "Croatia",
+    "Country Code": "HRV",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.9,
+    "value_2019": 5.4
+  },
+  {
+    "Country Name": "Haiti",
+    "Country Code": "HTI",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.2,
+    "value_2019": 6.7
+  },
+  {
+    "Country Name": "Hungary",
+    "Country Code": "HUN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.4,
+    "value_2019": 6.9
+  },
+  {
+    "Country Name": "IBRD only",
+    "Country Code": "IBD",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.342912114,
+    "value_2019": 9.301992976
+  },
+  {
+    "Country Name": "IDA & IBRD total",
+    "Country Code": "IBT",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.117635512,
+    "value_2019": 8.986872626
+  },
+  {
+    "Country Name": "IDA total",
+    "Country Code": "IDA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.18760442,
+    "value_2019": 7.851219133
+  },
+  {
+    "Country Name": "IDA blend",
+    "Country Code": "IDB",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.37789446,
+    "value_2019": 10.60474371
+  },
+  {
+    "Country Name": "Indonesia",
+    "Country Code": "IDN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.8,
+    "value_2019": 6.3
+  },
+  {
+    "Country Name": "IDA only",
+    "Country Code": "IDX",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.576042178,
+    "value_2019": 6.457722643
+  },
+  {
+    "Country Name": "India",
+    "Country Code": "IND",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.8,
+    "value_2019": 10.4
+  },
+  {
+    "Country Name": "Ireland",
+    "Country Code": "IRL",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.2,
+    "value_2019": 3.2
+  },
+  {
+    "Country Name": "Iran, Islamic Rep.",
+    "Country Code": "IRN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 8,
+    "value_2019": 9.6
+  },
+  {
+    "Country Name": "Iraq",
+    "Country Code": "IRQ",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 10.2,
+    "value_2019": 8.8
+  },
+  {
+    "Country Name": "Iceland",
+    "Country Code": "ISL",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 1.6,
+    "value_2019": 5.8
+  },
+  {
+    "Country Name": "Israel",
+    "Country Code": "ISR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.5,
+    "value_2019": 9.7
+  },
+  {
+    "Country Name": "Italy",
+    "Country Code": "ITA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.9,
+    "value_2019": 5
+  },
+  {
+    "Country Name": "Jamaica",
+    "Country Code": "JAM",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 10.6,
+    "value_2019": 11.3
+  },
+  {
+    "Country Name": "Jordan",
+    "Country Code": "JOR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 10.1,
+    "value_2019": 12.7
+  },
+  {
+    "Country Name": "Japan",
+    "Country Code": "JPN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5,
+    "value_2019": 5.6
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country Code": "KAZ",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.8,
+    "value_2019": 6.1
+  },
+  {
+    "Country Name": "Kenya",
+    "Country Code": "KEN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.5,
+    "value_2019": 3.1
+  },
+  {
+    "Country Name": "Kyrgyz Republic",
+    "Country Code": "KGZ",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.2,
+    "value_2019": 6.1
+  },
+  {
+    "Country Name": "Cambodia",
+    "Country Code": "KHM",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.2,
+    "value_2019": 6.4
+  },
+  {
+    "Country Name": "Kiribati",
+    "Country Code": "KIR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.6,
+    "value_2019": 22.5
+  },
+  {
+    "Country Name": "St. Kitts and Nevis",
+    "Country Code": "KNA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9,
+    "value_2019": 13.3
+  },
+  {
+    "Country Name": "Korea, Rep.",
+    "Country Code": "KOR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.9,
+    "value_2019": 6.9
+  },
+  {
+    "Country Name": "Kuwait",
+    "Country Code": "KWT",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 14.6,
+    "value_2019": 12.2
+  },
+  {
+    "Country Name": "Latin America & Caribbean (excluding high income)",
+    "Country Code": "LAC",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.51640764,
+    "value_2019": 9.840786144
+  },
+  {
+    "Country Name": "Lao PDR",
+    "Country Code": "LAO",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.6,
+    "value_2019": 6.4
+  },
+  {
+    "Country Name": "Lebanon",
+    "Country Code": "LBN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.8,
+    "value_2019": 11.2
+  },
+  {
+    "Country Name": "Liberia",
+    "Country Code": "LBR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.7,
+    "value_2019": 2.4
+  },
+  {
+    "Country Name": "Libya",
+    "Country Code": "LBY",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9,
+    "value_2019": 10.2
+  },
+  {
+    "Country Name": "St. Lucia",
+    "Country Code": "LCA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.3,
+    "value_2019": 11.6
+  },
+  {
+    "Country Name": "Latin America & Caribbean",
+    "Country Code": "LCN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.435736021,
+    "value_2019": 9.694271126
+  },
+  {
+    "Country Name": "Least developed countries: UN classification",
+    "Country Code": "LDC",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.270718137,
+    "value_2019": 6.442058445
+  },
+  {
+    "Country Name": "Low income",
+    "Country Code": "LIC",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.978297977,
+    "value_2019": 6.391683468
+  },
+  {
+    "Country Name": "Liechtenstein",
+    "Country Code": "LIE",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 8.9,
+    "value_2019": 9.4
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "Country Code": "LKA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 10.9,
+    "value_2019": 10.7
+  },
+  {
+    "Country Name": "Lower middle income",
+    "Country Code": "LMC",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.946160117,
+    "value_2019": 9.22358197
+  },
+  {
+    "Country Name": "Low & middle income",
+    "Country Code": "LMY",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.10854232,
+    "value_2019": 9.010097774
+  },
+  {
+    "Country Name": "Lesotho",
+    "Country Code": "LSO",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.9,
+    "value_2019": 4.5
+  },
+  {
+    "Country Name": "Late-demographic dividend",
+    "Country Code": "LTE",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.261484203,
+    "value_2019": 8.830811226
+  },
+  {
+    "Country Name": "Lithuania",
+    "Country Code": "LTU",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.6,
+    "value_2019": 3.8
+  },
+  {
+    "Country Name": "Luxembourg",
+    "Country Code": "LUX",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.3,
+    "value_2019": 5
+  },
+  {
+    "Country Name": "Latvia",
+    "Country Code": "LVA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.6,
+    "value_2019": 5
+  },
+  {
+    "Country Name": "Macao SAR, China",
+    "Country Code": "MAC",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 8.5,
+    "value_2019": 4.3
+  },
+  {
+    "Country Name": "Morocco",
+    "Country Code": "MAR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 8.3,
+    "value_2019": 7
+  },
+  {
+    "Country Name": "Monaco",
+    "Country Code": "MCO",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.7,
+    "value_2019": 2.9
+  },
+  {
+    "Country Name": "Moldova",
+    "Country Code": "MDA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.6,
+    "value_2019": 5.7
+  },
+  {
+    "Country Name": "Madagascar",
+    "Country Code": "MDG",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.2,
+    "value_2019": 4.5
+  },
+  {
+    "Country Name": "Maldives",
+    "Country Code": "MDV",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.4,
+    "value_2019": 9.2
+  },
+  {
+    "Country Name": "Middle East & North Africa",
+    "Country Code": "MEA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.973088195,
+    "value_2019": 11.37388398
+  },
+  {
+    "Country Name": "Mexico",
+    "Country Code": "MEX",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 10.8,
+    "value_2019": 13.5
+  },
+  {
+    "Country Name": "Marshall Islands",
+    "Country Code": "MHL",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.1,
+    "value_2019": 30.5
+  },
+  {
+    "Country Name": "Middle income",
+    "Country Code": "MIC",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.266650338,
+    "value_2019": 9.239025356
+  },
+  {
+    "Country Name": "North Macedonia",
+    "Country Code": "MKD",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.9,
+    "value_2019": 9.3
+  },
+  {
+    "Country Name": "Mali",
+    "Country Code": "MLI",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.2,
+    "value_2019": 2.4
+  },
+  {
+    "Country Name": "Malta",
+    "Country Code": "MLT",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.8,
+    "value_2019": 8.3
+  },
+  {
+    "Country Name": "Myanmar",
+    "Country Code": "MMR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.2,
+    "value_2019": 3.9
+  },
+  {
+    "Country Name": "Middle East & North Africa (excluding high income)",
+    "Country Code": "MNA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.060933586,
+    "value_2019": 10.79064373
+  },
+  {
+    "Country Name": "Montenegro",
+    "Country Code": "MNE",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.9,
+    "value_2019": 9
+  },
+  {
+    "Country Name": "Mongolia",
+    "Country Code": "MNG",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 1.6,
+    "value_2019": 4.7
+  },
+  {
+    "Country Name": "Mozambique",
+    "Country Code": "MOZ",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4,
+    "value_2019": 3.3
+  },
+  {
+    "Country Name": "Mauritania",
+    "Country Code": "MRT",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.8,
+    "value_2019": 7.1
+  },
+  {
+    "Country Name": "Mauritius",
+    "Country Code": "MUS",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 16.2,
+    "value_2019": 22
+  },
+  {
+    "Country Name": "Malawi",
+    "Country Code": "MWI",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 2.3,
+    "value_2019": 4.5
+  },
+  {
+    "Country Name": "Malaysia",
+    "Country Code": "MYS",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 11.6,
+    "value_2019": 16.7
+  },
+  {
+    "Country Name": "North America",
+    "Country Code": "NAC",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 10.18650148,
+    "value_2019": 10.46148847
+  },
+  {
+    "Country Name": "Namibia",
+    "Country Code": "NAM",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.4,
+    "value_2019": 4.5
+  },
+  {
+    "Country Name": "New Caledonia",
+    "Country Code": "NCL",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.2,
+    "value_2019": 21.8
+  },
+  {
+    "Country Name": "Niger",
+    "Country Code": "NER",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.9,
+    "value_2019": 2.4
+  },
+  {
+    "Country Name": "Nigeria",
+    "Country Code": "NGA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.7,
+    "value_2019": 3.1
+  },
+  {
+    "Country Name": "Nicaragua",
+    "Country Code": "NIC",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 10,
+    "value_2019": 11.4
+  },
+  {
+    "Country Name": "Netherlands",
+    "Country Code": "NLD",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.3,
+    "value_2019": 5.4
+  },
+  {
+    "Country Name": "Norway",
+    "Country Code": "NOR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.6,
+    "value_2019": 5.3
+  },
+  {
+    "Country Name": "Nepal",
+    "Country Code": "NPL",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.9,
+    "value_2019": 7.2
+  },
+  {
+    "Country Name": "Nauru",
+    "Country Code": "NRU",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 30.9,
+    "value_2019": 12
+  },
+  {
+    "Country Name": "New Zealand",
+    "Country Code": "NZL",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.2,
+    "value_2019": 6.2
+  },
+  {
+    "Country Name": "OECD members",
+    "Country Code": "OED",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.751251766,
+    "value_2019": 8.320516057
+  },
+  {
+    "Country Name": "Oman",
+    "Country Code": "OMN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 13.4,
+    "value_2019": 10.1
+  },
+  {
+    "Country Name": "Other small states",
+    "Country Code": "OSS",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.403567888,
+    "value_2019": 8.241798205
+  },
+  {
+    "Country Name": "Pakistan",
+    "Country Code": "PAK",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.1,
+    "value_2019": 19.9
+  },
+  {
+    "Country Name": "Panama",
+    "Country Code": "PAN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.6,
+    "value_2019": 7.7
+  },
+  {
+    "Country Name": "Peru",
+    "Country Code": "PER",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.2,
+    "value_2019": 6.6
+  },
+  {
+    "Country Name": "Philippines",
+    "Country Code": "PHL",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.7,
+    "value_2019": 7.1
+  },
+  {
+    "Country Name": "Palau",
+    "Country Code": "PLW",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.1,
+    "value_2019": 17.9
+  },
+  {
+    "Country Name": "Papua New Guinea",
+    "Country Code": "PNG",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3,
+    "value_2019": 17.9
+  },
+  {
+    "Country Name": "Poland",
+    "Country Code": "POL",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.6,
+    "value_2019": 6.1
+  },
+  {
+    "Country Name": "Pre-demographic dividend",
+    "Country Code": "PRE",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.325468867,
+    "value_2019": 5.371279804
+  },
+  {
+    "Country Name": "Puerto Rico",
+    "Country Code": "PRI",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 10.6,
+    "value_2019": 13.7
+  },
+  {
+    "Country Name": "Korea, Dem. People's Rep.",
+    "Country Code": "PRK",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.3,
+    "value_2019": 6.4
+  },
+  {
+    "Country Name": "Portugal",
+    "Country Code": "PRT",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.7,
+    "value_2019": 9.8
+  },
+  {
+    "Country Name": "Paraguay",
+    "Country Code": "PRY",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.9,
+    "value_2019": 9.6
+  },
+  {
+    "Country Name": "West Bank and Gaza",
+    "Country Code": "PSE",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 8.6,
+    "value_2019": 9.5
+  },
+  {
+    "Country Name": "Pacific island small states",
+    "Country Code": "PSS",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.123781551,
+    "value_2019": 15.32532765
+  },
+  {
+    "Country Name": "Post-demographic dividend",
+    "Country Code": "PST",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.625918323,
+    "value_2019": 7.579990606
+  },
+  {
+    "Country Name": "French Polynesia",
+    "Country Code": "PYF",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 13.8,
+    "value_2019": 19.5
+  },
+  {
+    "Country Name": "Qatar",
+    "Country Code": "QAT",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 15.4,
+    "value_2019": 15.6
+  },
+  {
+    "Country Name": "Romania",
+    "Country Code": "ROU",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.9,
+    "value_2019": 6.9
+  },
+  {
+    "Country Name": "Russian Federation",
+    "Country Code": "RUS",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.6,
+    "value_2019": 6.1
+  },
+  {
+    "Country Name": "Rwanda",
+    "Country Code": "RWA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 1.6,
+    "value_2019": 5.1
+  },
+  {
+    "Country Name": "South Asia",
+    "Country Code": "SAS",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.813139557,
+    "value_2019": 11.23792641
+  },
+  {
+    "Country Name": "Saudi Arabia",
+    "Country Code": "SAU",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 16.8,
+    "value_2019": 15.8
+  },
+  {
+    "Country Name": "Sudan",
+    "Country Code": "SDN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.2,
+    "value_2019": 22.1
+  },
+  {
+    "Country Name": "Senegal",
+    "Country Code": "SEN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.7,
+    "value_2019": 2.4
+  },
+  {
+    "Country Name": "Singapore",
+    "Country Code": "SGP",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 10.2,
+    "value_2019": 5.5
+  },
+  {
+    "Country Name": "Solomon Islands",
+    "Country Code": "SLB",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.3,
+    "value_2019": 19
+  },
+  {
+    "Country Name": "Sierra Leone",
+    "Country Code": "SLE",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.4,
+    "value_2019": 2.4
+  },
+  {
+    "Country Name": "El Salvador",
+    "Country Code": "SLV",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9,
+    "value_2019": 8.8
+  },
+  {
+    "Country Name": "San Marino",
+    "Country Code": "SMR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.9,
+    "value_2019": 5.9
+  },
+  {
+    "Country Name": "Somalia",
+    "Country Code": "SOM",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3,
+    "value_2019": 5.1
+  },
+  {
+    "Country Name": "Serbia",
+    "Country Code": "SRB",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.9,
+    "value_2019": 9
+  },
+  {
+    "Country Name": "Sub-Saharan Africa (excluding high income)",
+    "Country Code": "SSA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.803725027,
+    "value_2019": 5.358631009
+  },
+  {
+    "Country Name": "South Sudan",
+    "Country Code": "SSD",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": "",
+    "value_2019": 10.2
+  },
+  {
+    "Country Name": "Sub-Saharan Africa",
+    "Country Code": "SSF",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.805243904,
+    "value_2019": 5.359439866
+  },
+  {
+    "Country Name": "Small states",
+    "Country Code": "SST",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 8.013181637,
+    "value_2019": 9.268443645
+  },
+  {
+    "Country Name": "Sao Tome and Principe",
+    "Country Code": "STP",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.7,
+    "value_2019": 2.4
+  },
+  {
+    "Country Name": "Suriname",
+    "Country Code": "SUR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 10.5,
+    "value_2019": 12.5
+  },
+  {
+    "Country Name": "Slovak Republic",
+    "Country Code": "SVK",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.4,
+    "value_2019": 6.5
+  },
+  {
+    "Country Name": "Slovenia",
+    "Country Code": "SVN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.7,
+    "value_2019": 5.9
+  },
+  {
+    "Country Name": "Sweden",
+    "Country Code": "SWE",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.2,
+    "value_2019": 4.8
+  },
+  {
+    "Country Name": "Eswatini",
+    "Country Code": "SWZ",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.2,
+    "value_2019": 4.5
+  },
+  {
+    "Country Name": "Sint Maarten (Dutch part)",
+    "Country Code": "SXM",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": "",
+    "value_2019": 6.8
+  },
+  {
+    "Country Name": "Seychelles",
+    "Country Code": "SYC",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 14.4,
+    "value_2019": 12.3
+  },
+  {
+    "Country Name": "Syrian Arab Republic",
+    "Country Code": "SYR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 10.8,
+    "value_2019": 13.5
+  },
+  {
+    "Country Name": "Chad",
+    "Country Code": "TCD",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.7,
+    "value_2019": 6
+  },
+  {
+    "Country Name": "East Asia & Pacific (IDA & IBRD countries)",
+    "Country Code": "TEA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.564072519,
+    "value_2019": 8.514102225
+  },
+  {
+    "Country Name": "Europe & Central Asia (IDA & IBRD countries)",
+    "Country Code": "TEC",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.272406255,
+    "value_2019": 7.099250722
+  },
+  {
+    "Country Name": "Togo",
+    "Country Code": "TGO",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.3,
+    "value_2019": 2.4
+  },
+  {
+    "Country Name": "Thailand",
+    "Country Code": "THA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.1,
+    "value_2019": 7
+  },
+  {
+    "Country Name": "Tajikistan",
+    "Country Code": "TJK",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5,
+    "value_2019": 6.1
+  },
+  {
+    "Country Name": "Turkmenistan",
+    "Country Code": "TKM",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.3,
+    "value_2019": 6.1
+  },
+  {
+    "Country Name": "Latin America & the Caribbean (IDA & IBRD countries)",
+    "Country Code": "TLA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.36381344,
+    "value_2019": 9.67106673
+  },
+  {
+    "Country Name": "Timor-Leste",
+    "Country Code": "TLS",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.5,
+    "value_2019": 6.7
+  },
+  {
+    "Country Name": "Middle East & North Africa (IDA & IBRD countries)",
+    "Country Code": "TMN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.065381108,
+    "value_2019": 10.80461564
+  },
+  {
+    "Country Name": "Tonga",
+    "Country Code": "TON",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 13.4,
+    "value_2019": 15.7
+  },
+  {
+    "Country Name": "South Asia (IDA & IBRD)",
+    "Country Code": "TSA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.813139557,
+    "value_2019": 11.23792641
+  },
+  {
+    "Country Name": "Sub-Saharan Africa (IDA & IBRD countries)",
+    "Country Code": "TSS",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.805243904,
+    "value_2019": 5.359439866
+  },
+  {
+    "Country Name": "Trinidad and Tobago",
+    "Country Code": "TTO",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 11.7,
+    "value_2019": 11
+  },
+  {
+    "Country Name": "Tunisia",
+    "Country Code": "TUN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.3,
+    "value_2019": 8.5
+  },
+  {
+    "Country Name": "Turkey",
+    "Country Code": "TUR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 8,
+    "value_2019": 11.1
+  },
+  {
+    "Country Name": "Tuvalu",
+    "Country Code": "TUV",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 13.9,
+    "value_2019": 22.1
+  },
+  {
+    "Country Name": "Tanzania",
+    "Country Code": "TZA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.2,
+    "value_2019": 5.7
+  },
+  {
+    "Country Name": "Uganda",
+    "Country Code": "UGA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 2.2,
+    "value_2019": 2.5
+  },
+  {
+    "Country Name": "Ukraine",
+    "Country Code": "UKR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.6,
+    "value_2019": 6.1
+  },
+  {
+    "Country Name": "Upper middle income",
+    "Country Code": "UMC",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.549955379,
+    "value_2019": 9.256866035
+  },
+  {
+    "Country Name": "Uruguay",
+    "Country Code": "URY",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.7,
+    "value_2019": 7.3
+  },
+  {
+    "Country Name": "United States",
+    "Country Code": "USA",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 10.3,
+    "value_2019": 10.8
+  },
+  {
+    "Country Name": "Uzbekistan",
+    "Country Code": "UZB",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 5.2,
+    "value_2019": 6.5
+  },
+  {
+    "Country Name": "St. Vincent and the Grenadines",
+    "Country Code": "VCT",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 8.4,
+    "value_2019": 11.6
+  },
+  {
+    "Country Name": "Venezuela, RB",
+    "Country Code": "VEN",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.5,
+    "value_2019": 7
+  },
+  {
+    "Country Name": "British Virgin Islands",
+    "Country Code": "VGB",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 10.2,
+    "value_2019": 14.2
+  },
+  {
+    "Country Name": "Virgin Islands (U.S.)",
+    "Country Code": "VIR",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 9.9,
+    "value_2019": 12.3
+  },
+  {
+    "Country Name": "Vietnam",
+    "Country Code": "VNM",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.5,
+    "value_2019": 6
+  },
+  {
+    "Country Name": "Vanuatu",
+    "Country Code": "VUT",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3.2,
+    "value_2019": 11.9
+  },
+  {
+    "Country Name": "World",
+    "Country Code": "WLD",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 6.448971971,
+    "value_2019": 8.812211545
+  },
+  {
+    "Country Name": "Samoa",
+    "Country Code": "WSM",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 7.7,
+    "value_2019": 9.2
+  },
+  {
+    "Country Name": "Yemen, Rep.",
+    "Country Code": "YEM",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 3,
+    "value_2019": 5.4
+  },
+  {
+    "Country Name": "South Africa",
+    "Country Code": "ZAF",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.5,
+    "value_2019": 12.7
+  },
+  {
+    "Country Name": "Zambia",
+    "Country Code": "ZMB",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4,
+    "value_2019": 4.5
+  },
+  {
+    "Country Name": "Zimbabwe",
+    "Country Code": "ZWE",
+    "Indicator Name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "Indicator Code": "SH.STA.DIAB.ZS",
+    "value_2010": 4.1,
+    "value_2019": 1.8
+  }
+]

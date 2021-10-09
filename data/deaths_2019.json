@@ -1,0 +1,233 @@
+[
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Nutritional deficiencies",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.001360691,
+    "percent": 0.136069123
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Neoplasms",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.177814773,
+    "percent": 17.78147733
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Neurological disorders",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.029059255,
+    "percent": 2.905925466
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Mental disorders",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.00000521,
+    "percent": 0.000521112
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Self-harm and interpersonal violence",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.013580034,
+    "percent": 1.358003435
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "HIV/AIDS and sexually transmitted infections",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.00889089,
+    "percent": 0.889089022
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Respiratory infections and tuberculosis",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.134869258,
+    "percent": 13.48692578
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Enteric infections",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.00972544,
+    "percent": 0.972544017
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Neglected tropical diseases and malaria",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.001607859,
+    "percent": 0.160785941
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Chronic respiratory diseases",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.042497173,
+    "percent": 4.249717263
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Cardiovascular diseases",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.334445388,
+    "percent": 33.44453875
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Musculoskeletal disorders",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.001780754,
+    "percent": 0.178075401
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Digestive diseases",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.05725498,
+    "percent": 5.725497968
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Transport injuries",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.047845483,
+    "percent": 4.784548284
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Other non-communicable diseases",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.026090187,
+    "percent": 2.609018722
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Skin and subcutaneous diseases",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.010821552,
+    "percent": 1.082155219
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Unintentional injuries",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.025505258,
+    "percent": 2.550525756
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Other infectious diseases",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.009909347,
+    "percent": 0.990934679
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Maternal and neonatal disorders",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.008947412,
+    "percent": 0.894741184
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Substance use disorders",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.001782359,
+    "percent": 0.178235861
+  },
+  {
+    "measure": "Deaths",
+    "location": "Malaysia",
+    "sex": "Both",
+    "age": "All Ages",
+    "cause": "Diabetes and kidney diseases",
+    "metric": "Percent",
+    "year": 2019,
+    "val": 0.056206697,
+    "percent": 5.620669687
+  }
+]
