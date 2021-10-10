@@ -1,0 +1,22 @@
+measure,location,sex,age,cause,metric,year,val,val_per
+Deaths,Malaysia,Both,All Ages,Nutritional deficiencies,Percent,2019,0.001360691,0.1360691
+Deaths,Malaysia,Both,All Ages,Neurological disorders,Percent,2019,0.029059255,2.9059255
+Deaths,Malaysia,Both,All Ages,Mental disorders,Percent,2019,5.21E-06,0.000521
+Deaths,Malaysia,Both,All Ages,Neoplasms,Percent,2019,0.177814773,17.7814773
+Deaths,Malaysia,Both,All Ages,Self-harm and interpersonal violence,Percent,2019,0.013580034,1.3580034
+Deaths,Malaysia,Both,All Ages,Neglected tropical diseases and malaria,Percent,2019,0.001607859,0.1607859
+Deaths,Malaysia,Both,All Ages,Chronic respiratory diseases,Percent,2019,0.042497173,4.2497173
+Deaths,Malaysia,Both,All Ages,Digestive diseases,Percent,2019,0.05725498,5.725498
+Deaths,Malaysia,Both,All Ages,Transport injuries,Percent,2019,0.047845483,4.7845483
+Deaths,Malaysia,Both,All Ages,Cardiovascular diseases,Percent,2019,0.334445388,33.4445388
+Deaths,Malaysia,Both,All Ages,Musculoskeletal disorders,Percent,2019,0.001780754,0.1780754
+Deaths,Malaysia,Both,All Ages,Unintentional injuries,Percent,2019,0.025505258,2.5505258
+Deaths,Malaysia,Both,All Ages,HIV/AIDS and sexually transmitted infections,Percent,2019,0.00889089,0.889089
+Deaths,Malaysia,Both,All Ages,Respiratory infections and tuberculosis,Percent,2019,0.134869258,13.4869258
+Deaths,Malaysia,Both,All Ages,Enteric infections,Percent,2019,0.00972544,0.972544
+Deaths,Malaysia,Both,All Ages,Other non-communicable diseases,Percent,2019,0.026090187,2.6090187
+Deaths,Malaysia,Both,All Ages,Skin and subcutaneous diseases,Percent,2019,0.010821552,1.0821552
+Deaths,Malaysia,Both,All Ages,Other infectious diseases,Percent,2019,0.009909347,0.9909347
+Deaths,Malaysia,Both,All Ages,Maternal and neonatal disorders,Percent,2019,0.008947412,0.8947412
+Deaths,Malaysia,Both,All Ages,Substance use disorders,Percent,2019,0.001782359,0.1782359
+Deaths,Malaysia,Both,All Ages,Diabetes and kidney diseases,Percent,2019,0.056206697,5.6206697
