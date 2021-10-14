@@ -2,17 +2,29 @@ h1 {
     text-align: center;
     font-family: 'Fira Sans', sans-serif;
     font-weight: bold;
+}
+
+#background{
     background-color: darksalmon;
+    text-align: center;
 }
 
 #divContainer {
     display: flex;
 }
 
+
+#firstRow{
+    background-color:blanchedalmond;
+    align-items: center;
+}
+
 #secondRow{
     align-items: center;
-    margin-left: 12px;
+    background-color:blanchedalmond;
 }
+
+
 h3{
     font-family: 'Fira Sans', sans-serif;
     font-weight: bold;
@@ -24,7 +36,8 @@ h3{
 }
 
 #isopleth{
-    display: flex;
+    display: block;
+    margin: auto;
     width: 65%;
 }
 
@@ -35,19 +48,33 @@ h3{
 }
 
 #gender{
-    display: flex;
+    display: block;
     margin: auto;
     width: 75%;
-    height: 100%;
-    margin-left: 10px;
+    margin-left: 18%;
 }
 
 #predict{
     margin: auto;
+    display: block;
     width: 100%;
     margin-left: 10px;
 }
 
 #red{
     color: red;
+}
+
+.bold_red{
+    font-weight: bold;
+    color: red;
+}
+
+
+#header{
+    background-color: blanchedalmond;
+}
+
+#test2{
+    background-color:white;
 }
