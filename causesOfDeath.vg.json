@@ -1,39 +1,79 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Top 10 Leading Causes of Death in Malaysia in 2019",
-    "width": 400,
-    "height": 400,
-    "data": {"url": "data/deaths_2019.json"},
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Bar Chart with a spacing-saving y-axis",
+  "data": {"url": "https://raw.githubusercontent.com/julialau88/DataVisualisation2/main/data/death_causes_2019.csv"},
+  "height": {"step": 45},
+  "width": "container",
+  "params": [
+    {
+      "name": "highlight",
+      "select": {"type": "point", "on": "mouseover"}
+    },
+    {"name": "select", "select": "point"}
+  ],
     "transform": [
+    {
+      "window": [{"op": "row_number", "as": "rank"}],
+      "sort": [{"field": "val_per", "order": "descending"}]
+    },
+    {"filter": "datum.rank <= 10"},
+    {"calculate": "datum.cause", "as": "Causes of Deaths"},
+    {"calculate": "datum.val*100", "as": "Percentage"}
+  ],
+  "mark": {"type": "bar", "yOffset": 5, "cornerRadiusEnd": 2, "height": {"band": 0.5},  "stroke": "black",
+    "cursor": "pointer"},
+  "encoding": {
+    "y": {
+      "field": "Causes of Deaths",
+      "scale": {"padding": 0},
+      "sort": "-x",
+      "axis": {
+        "bandPosition": 0,
+        "grid": true,
+        "domain": false,
+        "ticks": false,
+        "labelAlign": "left",
+        "labelBaseline": "middle",
+        "labelPadding": -5,
+        "labelOffset": -15,
+        "titleX": 5,
+        "titleY": -5,
+        "titleAngle": 0,
+        "titleAlign": "left"
+      }
+    },
+    "x": {
+      "field": "Percentage",
+      "aggregate":"max",
+      "axis": {"grid": false},
+      "title": "Percentage of deaths caused"
+    },
+      "fillOpacity": {
+      "condition": {"param": "select", "value": 1},
+      "value": 0.3
+    },
+    "strokeWidth": {
+      "condition": [
         {
-            "window": [{"op": "row_number", "as": "rank"}],
-            "sort": [{ "field": "percent", "order": "descending" }]
+          "param": "select",
+          "empty": false,
+          "value": 2
         },
         {
-            "filter": "datum.rank <= 10"
-        },
-        {
-            "calculate": "datum.cause", "as": "Causes of Deaths"
-        },  
-        {
-            "calculate": "datum.percent", "as": "Percentage"
+          "param": "highlight",
+          "empty": false,
+          "value": 1
         }
       ],
-    "encoding": {
-      "y": {"field": "Causes of Deaths", "type": "nominal", "sort": "-x"},
-      "x": {"field": "Percentage", "type": "quantitative", "scale": {"domain": [0, 35]}}
+      "value": 0
     },
-    "layer": [
-      {
-      "mark": "bar"
-      }, 
-      {
-        "mark": {
-          "type": "text",
-          "align": "left",
-          "baseline": "middle",
-          "dx": 3
-        }
-      }]
+    "tooltip":[
+      {"field": "Causes of Deaths", "type": "nominal"},
+      {"field": "Percentage", "type": "quantitative", "format": ".2f" }
+    ],
+    "color": {
+        "condition": {"test": "datum['Causes of Deaths'] != 'Diabetes and kidney diseases'",    "value": "#fdbb84"},
+        "value": "#e34a33"
+      }
   }
-  
+}

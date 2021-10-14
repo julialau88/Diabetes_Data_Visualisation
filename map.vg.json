@@ -1,0 +1,214 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "description": "An interactive world map supporting pan and zoom.",
+  "width": 800,
+  "height": 600,
+  "autosize": {"type": "fit", "contains": "padding"},
+  "signals": [
+    {
+      "name": "width",
+      "init": "containerSize()[0]",
+      "on": [{"events": "window:resize", "update": "containerSize()[0]"}]
+    },
+    {
+      "name": "year_selection",
+      "value": 2019,
+      "bind": {
+        "input": "range",
+        "min": 2010,
+        "max": 2019,
+        "step": 9,
+        "name": "Year Selection: "
+      }
+    },
+    {
+      "name": "region_highlight",
+      "value": 0,
+      "on": [
+        {"events": "rect:mouseover", "update": "3"},
+        {"events": "rect:mouseout", "update": "0"}
+      ]
+    },
+    {
+      "name": "tooltip",
+      "value": {},
+      "on": [
+        {"events": "rect:mouseover", "update": "datum"},
+        {"events": "rect:mouseout", "update": "{}"}
+      ]
+    },
+    {"name": "tx", "update": "width / 2"},
+    {"name": "ty", "update": "height / 2"},
+    {
+      "name": "scale",
+      "value": 150,
+      "on": [
+        {
+          "events": {"type": "wheel", "consume": true},
+          "update": "clamp(scale * pow(1.0005, -event.deltaY * pow(16, event.deltaMode)), 150, 3000)"
+        }
+      ]
+    },
+    {
+      "name": "angles",
+      "value": [0, 0],
+      "on": [{"events": "mousedown", "update": "[rotateX, centerY]"}]
+    },
+    {
+      "name": "cloned",
+      "value": null,
+      "on": [{"events": "mousedown", "update": "copy('projection')"}]
+    },
+    {
+      "name": "start",
+      "value": null,
+      "on": [{"events": "mousedown", "update": "invert(cloned, xy())"}]
+    },
+    {
+      "name": "drag",
+      "value": null,
+      "on": [
+        {
+          "events": "[mousedown, window:mouseup] > window:mousemove",
+          "update": "invert(cloned, xy())"
+        }
+      ]
+    },
+    {
+      "name": "delta",
+      "value": null,
+      "on": [
+        {
+          "events": {"signal": "drag"},
+          "update": "[drag[0] - start[0], start[1] - drag[1]]"
+        }
+      ]
+    },
+    {
+      "name": "rotateX",
+      "value": 0,
+      "on": [{"events": {"signal": "delta"}, "update": "angles[0] + delta[0]"}]
+    },
+    {
+      "name": "centerY",
+      "value": 0,
+      "on": [
+        {
+          "events": {"signal": "delta"},
+          "update": "clamp(angles[1] + delta[1], -60, 60)"
+        }
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "data_prevalence",
+      "type": "quantile",
+      "domain": {"data": "data", "field": "Prevalence", "sort": true},
+      "range": ["#ffffd4", "#fed98e", "#fe9929", "#d95f0e", "#993404"]
+    }
+  ],
+  "projections": [
+    {
+      "name": "projection",
+      "type": "equirectangular",
+      "scale": {"signal": "scale"},
+      "rotate": [{"signal": "rotateX"}, 0, 0],
+      "center": [0, {"signal": "centerY"}],
+      "translate": [{"signal": "tx"}, {"signal": "ty"}]
+    }
+  ],
+  "data": [
+    {
+      "name": "world",
+      "url": "https://raw.githubusercontent.com/julialau88/DataVisualisation2/main/data/ne_110m_admin_0_countries.json",
+      "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+    },
+    {
+      "name": "data",
+      "url": "https://raw.githubusercontent.com/julialau88/DataVisualisation2/main/data/diabetes-prevalence.csv",
+      "format": {"type": "csv", "delimiter": ","},
+      "transform": [
+        {
+          "type": "lookup",
+          "from": "world",
+          "key": "properties.NAME",
+          "fields": ["Entity"],
+          "values": ["type", "properties", "geometry"]
+        },
+        {"type": "filter", "expr": "datum.Year == year_selection"}
+      ]
+    },
+    {
+      "name": "graticule",
+      "transform": [{"type": "graticule", "step": [15, 15]}]
+    },
+    {
+      "name": "location",
+      "url": "https://raw.githubusercontent.com/julialau88/DataVisualisation2/main/data/world_country_and_usa_states_latitude_and_longitude_values.csv",
+      "format": {"type": "csv", "delimiter": ","}
+    },
+    {
+      "name": "change",
+      "url": "https://raw.githubusercontent.com/julialau88/DataVisualisation2/main/data/diabetes-prevalence.csv",
+      "format": {"type": "csv", "delimiter": ","}
+    }
+  ],
+  "marks": [
+    {
+      "type": "group",
+      "encode": {
+        "update": {
+          "width": {"field": {"group": "width"}},
+          "height": {"field": {"group": "height"}}
+        }
+      },
+      "marks": [
+        {
+          "type": "shape",
+          "from": {"data": "world"},
+          "encode": {
+            "enter": {"stroke": {"value": "#bbb"}, "fill": {"value": "#808080"}}
+          },
+          "transform": [{"type": "geoshape", "projection": "projection"}]
+        },
+        {
+          "type": "shape",
+          "from": {"data": "data"},
+          "encode": {
+            "enter": {
+              "strokeWidth": {"value": 0.5},
+              "stroke": {"value": "#bbb"},
+              "fill": {"scale": "data_prevalence", "field": "Prevalence"}
+            },
+            "update": {
+              "tooltip": {
+                "signal": "{'Country': datum.Entity, 'Prevalence': datum.Prevalence}"
+              },
+              "strokeWidth": {"value": 0.5},
+              "stroke": {"value": "#bbb"}
+            },
+            "hover": {
+              "stroke": {"value": "black"},
+              "strokeWidth": {"value": 3},
+              "zindex": {"value": 1}
+            }
+          },
+          "transform": [{"type": "geoshape", "projection": "projection"}]
+        }
+      ]
+    }
+  ],
+  "legends": [
+    {
+      "fill": "data_prevalence",
+      "title": "Prevalence",
+      "orient": "top-right",
+      "columnPadding": 15,
+      "encode": {
+        "symbols": {"enter": {"fillOpacity": {"value": 0.5}}},
+        "labels": {"update": {"text": {"field": "value"}}}
+      }
+    }
+  ]
+}

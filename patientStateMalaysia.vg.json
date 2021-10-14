@@ -1,0 +1,39 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 200,
+    "height": 200,
+    "config": {
+        "view": {
+            "strokeWidth": 0,
+            "step": 13
+        },
+        "axis": {
+            "domain": false
+        }
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/julialau88/DataVisualisation2/main/data/state_diabetes_prevalenec_MY.csv"
+    },
+    "transform": [
+      {"calculate": "ceil (datum.id/10)", "as": "col"},
+      {"calculate": "datum.id - datum.col*10", "as": "row"}
+    ],
+    "mark": {"type": "square", "filled": true},
+    "encoding": {
+      "x": {"field": "col", "type": "ordinal", "axis": null},
+      "y": {"field": "row", "type": "ordinal", "axis": null},
+  
+      "color": {
+        "condition": {"test": "datum.patient == 'Diabetic'", "value": "rgb(194,81,64)"},
+        "value": "rgb(167,165,156)"
+      },
+      "size": {"value": 250},
+      "column": {
+          "field": "state",
+          "type": "nominal",
+          "title": "Change in Prevalence between 2010 and 2019"
+      }
+    },
+    "params": [{"name": "highlight", "select": "interval"}]
+  }
+  

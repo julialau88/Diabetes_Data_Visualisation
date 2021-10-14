@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: bold;
+    background-color: darksalmon;
+}
+
+#divContainer {
+    display: flex;
+}
+
+#secondRow{
+    align-items: center;
+    margin-left: 12px;
+}
+h3{
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: bold;
+}
+
+#change{
+    display: flex;
+    justify-content: center;
+}
+
+#isopleth{
+    display: flex;
+    width: 65%;
+}
+
+#death{
+    display: flex;
+    margin: auto;
+    width: 100%;
+}
+
+#gender{
+    display: flex;
+    margin: auto;
+    width: 75%;
+    height: 100%;
+    margin-left: 10px;
+}
+
+#predict{
+    margin: auto;
+    width: 100%;
+    margin-left: 10px;
+}
+
+#red{
+    color: red;
+}

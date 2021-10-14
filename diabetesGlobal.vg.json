@@ -1,70 +1,106 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 800,
-    "height": 500,
-    "title": "Diabetes Prevalence (%) in Population Ages 20 to 79",
-    "projection": {"type": "equirectangular"},
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "https://raw.githubusercontent.com/julialau88/DataVisualisation2/main/data/diabetes-prevalence.csv"},
     "params": [{
         "name": "year_selection",
-        "value": 2010,
+        "value": 2019,
         "bind": {"input": "range", "min": 2010, "max": 2019, "step": 9, "name": "Year Selection: "}
         }
     ],
-    "layer":[
-   { "data": {
-        "url": "https://raw.githubusercontent.com/julialau88/DataVisualisation2/main/data/diabetes-prevalence.csv"
-    },
-    "transform": [{
-          "lookup": "Entity",
-          "from": {
-            "data": {
-                "url": "https://raw.githubusercontent.com/julialau88/DataVisualisation2/main/data/ne_110m_admin_0_countries.json",
-                "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
-            },
-            "key": "properties.NAME"
+  "vconcat":[{
+      "width": "container",
+      "height": 500,
+      "title": "Diabetes Prevalence (%) in Population Ages 20 to 79",
+      "projection": {"type": "equirectangular"},
+      "layer":[
+        {
+          
+          "data": {
+              "url": "https://raw.githubusercontent.com/julialau88/DataVisualisation2/main/data/diabetes-prevalence.csv"
           },
-          "as": "geo"
-        },
-        {"filter":"datum.Year == year_selection"}
-      ],
-    "mark": {"type": "geoshape"},
-    "encoding": {
-        "shape": {
-            "field": "geo",
-            "type": "geojson"
-        },
-        "color": {
-          "field": "Prevalence",
-          "type": "quantitative",
-          "scale": {"type":"quantile", "range": ["#ffffd4", "#fed98e", "#fe9929", "#d95f0e", "#993404"]}
-        },
-        "tooltip": [
-          {"field": "Entity", "type": "nominal", "title": "Country"},
-          {"field": "Prevalence", "type": "quantitative"}
-        ]
-    }}, 
-      {
-        "data": {
-            "url": "https://raw.githubusercontent.com/julialau88/DataVisualisation2/main/data/world_country_and_usa_states_latitude_and_longitude_values.csv"
-        },
-        "mark": {
-            "type": "text",
-            "baseline": "middle",
-            "fontWeight": "bold",
-            "fontSize": 10,
-            "fontStyle": "italic"
-        },
+          
+          "transform": [{
+                "lookup": "Entity",
+                "from": {
+                  "data": {
+                      "url": "https://raw.githubusercontent.com/julialau88/DataVisualisation2/main/data/ne_110m_admin_0_countries.json",
+                      "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+                  },
+                  "key": "properties.NAME"
+                },
+                "as": "geo"
+              },
+              {"filter":"datum.Year == year_selection"}
+            ],
+          "mark": {"type": "geoshape"},
+          "encoding": {
+              "shape": {
+                  "field": "geo",
+                  "type": "geojson"
+              },
+              "color": {
+                "field": "Prevalence",
+                "type": "quantitative",
+                "scale": {"type":"quantile", "range": ["#ffffd4", "#fed98e", "#fe9929", "#d95f0e", "#993404"]}
+              },
+              "tooltip": [
+                {"field": "Entity", "type": "nominal", "title": "Country"},
+                {"field": "Prevalence", "type": "quantitative"}
+              ]
+          }}, 
+        {
+          "data": {
+              "url": "https://raw.githubusercontent.com/julialau88/DataVisualisation2/main/data/world_country_and_usa_states_latitude_and_longitude_values.csv"
+          },
+          "mark": {
+              "type": "text",
+              "baseline": "middle",
+              "fontWeight": "bold",
+              "fontSize": 10,
+              "fontStyle": "italic"
+          },
+          "encoding": {
+              "text": {"field": "country", "type": "nominal"},
+              "longitude": {"field": "longitude", "type": "quantitative"},
+              "latitude": {"field": "latitude", "type": "quantitative"},
+              "color": {"value": "black"},
+              "opacity": {
+              "condition": {
+              "test": "datum['country'] == 'Papua New Guinea'||datum['country'] == 'Malaysia' || datum['country'] == 'Mexico' || datum['country'] == 'Brazil' || datum['country'] == 'India'|| datum['country'] == 'Libya'|| datum['country'] == 'Saudi Arabia'|| datum['country'] == 'Sudan' || datum['country'] == 'South Africa'",
+              "value": 1
+            },
+            "value": 0
+            }
+        }}]
+    },
+    {
+  
+      "mark": "line",
+      "transform": [
+          {"filter": "datum['Entity'] == 'Malaysia' || datum['Entity'] == 'Mexico' || datum['Entity'] == 'Brazil' || datum['Entity'] == 'India'|| datum['Entity'] == 'South Africa'"}
+        ],
         "encoding": {
-            "text": {"field": "country", "type": "nominal"},
-            "longitude": {"field": "longitude", "type": "quantitative"},
-            "latitude": {"field": "latitude", "type": "quantitative"},
-            "color": {"value": "black"},
-            "opacity": {
-            "condition": {
-            "test": "datum['country'] == 'Papua New Guinea'||datum['country'] == 'Malaysia' || datum['country'] == 'Mexico' || datum['country'] == 'Brazil' || datum['country'] == 'India'|| datum['country'] == 'Libya'|| datum['country'] == 'Saudi Arabia'|| datum['country'] == 'Sudan' || datum['country'] == 'South Africa'",
-            "value": 1
-           },
-           "value": 0
-           }
-      }}]
+          
+          "x": {
+            "field": "Year",
+            "type": "ordinal",
+            "scale": {"padding": 0.5}
+          },
+          "y": {
+            "field": "Prevalence",
+            "type": "quantitative"
+          },
+          "tooltip": [
+            {"field": "Entity", "type": "nominal", "title": "Country"},
+            {"field": "Prevalence", "type": "quantitative"}
+          ],
+          "color": {"value": "red"},
+          "column": {
+            "field": "Entity",
+            "type": "nominal",
+            "title": "Change in Prevalence between 2010 and 2019"
+          }
+      }
+  }]
 }
+ 

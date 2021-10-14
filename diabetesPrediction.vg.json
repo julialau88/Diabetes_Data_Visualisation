@@ -1,0 +1,43 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "https://raw.githubusercontent.com/julialau88/DataVisualisation2/main/data/diabetes_prediction_malaysia.csv"},
+  "width": "container",
+  "height": 450,
+  "encoding": {"x": {"field": "Year", "type": "quantitative", "title": "Year"}},
+  "layer": [
+    {
+      "encoding": {
+        "color": {"field": "Symbol", "type": "nominal"},
+        "y": {"field": "Number", "type": "quantitative",  "title": "Population in 1000s"}
+      },
+      "layer": [
+        {"mark": "line"},
+        {"transform": [{"filter": {"param": "hover", "empty": false}}], "mark": "point"}
+      ]
+    },
+    {
+      "transform": [{"pivot": "Symbol", "value": "Number", "groupby": ["Year"]}],
+      "mark": "rule",
+      "encoding": {
+        "opacity": {
+          "condition": {"value": 0.3, "param": "hover", "empty": false},
+          "value": 0
+        },
+        "tooltip": [
+          {"field": "Diabetes", "type": "quantitative"},
+          {"field": "IGT", "type": "quantitative"}
+        ]
+      },
+      "params": [{
+        "name": "hover",
+        "select": {
+          "type": "point",
+          "fields": ["Year"],
+          "nearest": true,
+          "on": "mouseover",
+          "clear": "mouseout"
+        }
+      }]
+    }
+  ]
+}
