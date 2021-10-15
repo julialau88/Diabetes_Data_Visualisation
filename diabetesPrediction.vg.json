@@ -1,43 +1,119 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "data": {"url": "https://raw.githubusercontent.com/julialau88/DataVisualisation2/main/data/diabetes_prediction_malaysia.csv"},
+  "data": {
+    "values": [
+    {"label": "Begin", "amount": 1864},
+      {"label": "2019", "amount": 1185},
+      {"label": "2030", "amount": 1429},
+      {"label": "2045", "amount": 1812},
+      {"label": "End", "amount": 0}
+    ]
+  },
   "width": "container",
   "height": 450,
-  "encoding": {"x": {"field": "Year", "type": "quantitative", "title": "Year"}},
-  "layer": [
+  "transform": [
+    {"window": [{"op": "sum", "field": "amount", "as": "sum"}]},
+    {"window": [{"op": "lead", "field": "label", "as": "lead"}]},
     {
-      "encoding": {
-        "color": {"field": "Symbol", "type": "nominal"},
-        "y": {"field": "Number", "type": "quantitative",  "title": "Population in 1000s"}
-      },
-      "layer": [
-        {"mark": "line"},
-        {"transform": [{"filter": {"param": "hover", "empty": false}}], "mark": "point"}
-      ]
+      "calculate": "datum.lead === null ? datum.label : datum.lead",
+      "as": "lead"
     },
     {
-      "transform": [{"pivot": "Symbol", "value": "Number", "groupby": ["Year"]}],
-      "mark": "rule",
-      "encoding": {
-        "opacity": {
-          "condition": {"value": 0.3, "param": "hover", "empty": false},
-          "value": 0
-        },
-        "tooltip": [
-          {"field": "Diabetes", "type": "quantitative"},
-          {"field": "IGT", "type": "quantitative"}
-        ]
-      },
-      "params": [{
-        "name": "hover",
-        "select": {
-          "type": "point",
-          "fields": ["Year"],
-          "nearest": true,
-          "on": "mouseover",
-          "clear": "mouseout"
-        }
-      }]
+      "calculate": "datum.label === 'End' ? 0 : datum.sum - datum.amount",
+      "as": "previous_sum"
+    },
+    {
+      "calculate": "datum.label === 'End' ? datum.sum : datum.amount",
+      "as": "amount"
+    },
+    {
+      "calculate": "(datum.label !== 'Begin' && datum.label !== 'End' && datum.amount > 0 ? '+' : '') + datum.amount",
+      "as": "text_amount"
+    },
+    {"calculate": "(datum.sum + datum.previous_sum) / 2", "as": "center"},
+    {
+      "calculate": "datum.sum < datum.previous_sum ? datum.sum : ''",
+      "as": "sum_dec"
+    },
+    {
+      "calculate": "datum.sum > datum.previous_sum ? datum.sum : ''",
+      "as": "sum_inc"
     }
-  ]
+  ],
+  "encoding": {
+    "x": {
+      "field": "label",
+      "type": "ordinal",
+      "sort": null,
+      "axis": {"labelAngle": 0, "title": "Year"}
+    }
+  },
+  "layer": [
+    {
+      "mark": {"type": "bar", "size": 45},
+      "encoding": {
+        "y": {
+          "field": "previous_sum",
+          "type": "quantitative",
+          "title": "Population with diabetes in 1000s"
+        },
+        "y2": {"field": "sum"},
+        "color": {
+          "condition": [
+            {
+              "test": "datum.label === 'Begin' || datum.label === 'End'",
+              "value": "#f7e0b6"
+            },
+            {"test": "datum.sum < datum.previous_sum", "value": "#f78a64"}
+          ],
+          "value": "#e34a33"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "rule",
+        "color": "#404040",
+        "opacity": 1,
+        "strokeWidth": 2,
+        "xOffset": -22.5,
+        "x2Offset": 22.5
+      },
+      "encoding": {
+        "x2": {"field": "lead"},
+        "y": {"field": "sum", "type": "quantitative"}
+      }
+    },
+    {
+      "mark": {"type": "text", "dy": -4, "baseline": "bottom"},
+      "encoding": {
+        "y": {"field": "sum_inc", "type": "quantitative"},
+        "text": {"field": "sum_inc", "type": "nominal"}
+      }
+    },
+    {
+      "mark": {"type": "text", "dy": 4, "baseline": "top"},
+      "encoding": {
+        "y": {"field": "sum_dec", "type": "quantitative"},
+        "text": {"field": "sum_dec", "type": "nominal"}
+      }
+    },
+    {
+      "mark": {"type": "text", "fontWeight": "bold", "baseline": "middle"},
+      "encoding": {
+        "y": {"field": "center", "type": "quantitative"},
+        "text": {"field": "text_amount", "type": "nominal"},
+        "color": {
+          "condition": [
+            {
+              "test": "datum.label === 'Begin' || datum.label === 'End'",
+              "value": "#725a30"
+            }
+          ],
+          "value": "white"
+        }
+      }
+    }
+  ],
+  "config": {"text": {"fontWeight": "bold", "color": "#404040"}}
 }

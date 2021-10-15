@@ -72,7 +72,7 @@
       {"field": "Percentage", "type": "quantitative", "format": ".2f" }
     ],
     "color": {
-        "condition": {"test": "datum['Causes of Deaths'] != 'Diabetes and kidney diseases'",    "value": "#fdbb84"},
+        "condition": {"test": "datum['Causes of Deaths'] != 'Diabetes and kidney diseases'",    "value": "#FFBB33"},
         "value": "#e34a33"
       }
   }

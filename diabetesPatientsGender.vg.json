@@ -1,16 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": "container",
-  "height": 250,
+  "height": 320,
   "config": {
     "rect": {"strokeWidth": 5},
-      "view": {
-    
-          "step": 13
-      },
-      "axis": {
-          "domain": false
-      }
+    "view": {"step": 13},
+    "axis": {"domain": false}
   },
   "data": {
     "url": "https://raw.githubusercontent.com/julialau88/DataVisualisation2/main/data/patient_gender_my.csv"
@@ -19,22 +14,49 @@
     {"calculate": "ceil (datum.id/10)", "as": "col"},
     {"calculate": "datum.id - datum.col*10", "as": "row"}
   ],
-  "mark": {"type": "rect", "filled": true},
+  "layer":[
+  {"mark": {"type": "rect", "filled": true},
   "encoding": {
-    "x": {"field": "col", "type": "ordinal", "axis": null,     "scale": {
-      "paddingInner": 0.09,
-      "paddingOuter": 0
-    }},
-    "y": {"field": "row", "type": "ordinal", "axis": null,     "scale": {
-      "paddingInner": 0.09,
-      "paddingOuter": 0
-    }},
+    "x": {
+      "field": "col",
+      "type": "ordinal",
+      "axis": null,
+      "scale": {"paddingInner": 0.09, "paddingOuter": 0}
+    },
+    "y": {
+      "field": "row",
+      "type": "ordinal",
+      "axis": null,
+      "scale": {"paddingInner": 0.09, "paddingOuter": 0}
+    },
     "color": {
       "field": "gender",
-      "scale":{"range": ["rgb(255, 187, 51)", "rgb(255, 71, 26)"]},
+      "scale": {"range": ["rgb(255, 187, 51)", "rgb(255, 71, 26)"]},
       "title": "Gender"
-    
+    }
+  }},{
+     "mark": {
+      "type": "text",
+      "align": "left",
+      "dy": 200,
+      "dx": 100,
+      "fontSize": 15
+     },
+      "encoding": {
+      "text": {"value": "57% Male"},
+      "color":{"value": "rgb(255, 71, 26)"}
+      }
     },
-    "size": {"value":200}
-  }
+    {
+     "mark": {
+      "type": "text",
+      "align": "left",
+      "dy": 200,
+      "dx": -150,
+      "fontSize": 15
+    },
+      "encoding": {
+      "text": {"value": "43% Female"},
+      "color":{"value": "rgb(255, 187, 51)"}
+    }}]
 }
