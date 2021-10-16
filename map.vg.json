@@ -176,10 +176,9 @@
           "type": "shape",
           "from": {"data": "data"},
           "encode": {
-      
             "enter": {
               "strokeWidth": {"value": 0.5},
-              "legend":  {"format": ".2f"},
+              "legend": {"format": ".2f"},
               "stroke": {"value": "#bbb"},
               "fill": {"scale": "data_prevalence", "field": "Prevalence"}
             },
@@ -199,19 +198,34 @@
           "transform": [{"type": "geoshape", "projection": "projection"}]
         }
       ]
+    },
+        {
+      "type": "text",
+      "interactive": false,
+      "from": {"data": "location"},
+      "encode": {
+        "enter": {
+          "align": {"value": "center"},
+          "baseline": {"value": "middle"},
+          "fontSize": {"value": 13},
+          "fontWeight": {"value": "bold"},
+          "text": {"field": "country"}
+        },
+        "update": {
+          "x": {"field": "longitude"},
+          "y": {"field": "latitude"}
+        }
+      }
     }
   ],
   "legends": [
     {
-      "fill": "data_prevalence",
       "title": "Prevalence",
       "orient": "right",
-      "format": ".2",
-      "columnPadding": 15,
-      "encode": {
-        "symbols": {"enter": {"fillOpacity": {"value": 0.5}}},
-        "labels": {"update": {"text": {"field": "value"}, "format": ".2f"}, "format": {"value": ".2f"}}
-      }
+      "type": "symbol",
+      "fill": "data_prevalence",
+      "format": ".2f",
+      "clipHeight": 20
     }
   ]
 }
