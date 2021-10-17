@@ -24,7 +24,7 @@
     "cursor": "pointer"},
   "encoding": {
     "y": {
-      "field": "Causes of Deaths",
+      "field": "Cause of Deaths",
       "scale": {"padding": 0},
       "sort": "-x",
       "axis": {
