@@ -198,24 +198,6 @@
           "transform": [{"type": "geoshape", "projection": "projection"}]
         }
       ]
-    },
-        {
-      "type": "text",
-      "interactive": false,
-      "from": {"data": "location"},
-      "encode": {
-        "enter": {
-          "align": {"value": "center"},
-          "baseline": {"value": "middle"},
-          "fontSize": {"value": 13},
-          "fontWeight": {"value": "bold"},
-          "text": {"field": "country"}
-        },
-        "update": {
-          "x": {"field": "longitude"},
-          "y": {"field": "latitude"}
-        }
-      }
     }
   ],
   "legends": [
