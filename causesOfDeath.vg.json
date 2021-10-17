@@ -68,7 +68,7 @@
       "value": 0
     },
     "tooltip":[
-      {"field": "Causes of Deaths", "type": "nominal"},
+      {"field": "Cause of Deaths", "type": "nominal"},
       {"field": "Percentage", "type": "quantitative", "format": ".2f" }
     ],
     "color": {
