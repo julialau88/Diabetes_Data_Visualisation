@@ -46,7 +46,7 @@
       "field": "Percentage",
       "aggregate":"max",
       "axis": {"grid": false},
-      "title": "Percentage of deaths caused"
+      "title": "Percentage of Deaths Caused"
     },
       "fillOpacity": {
       "condition": {"param": "select", "value": 1},
